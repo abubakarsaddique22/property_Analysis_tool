@@ -1,0 +1,760 @@
+Unnamed: 0,House Number,City,Parking Spaces,Bedrooms,Bathrooms,Servant Quarters,Kitchens,Store Rooms,price,Purpose,Location,Age Possession,area,price_per_sqft,colony,province,society,property Type,area_room_ratio
+3,52061409,Rawalpindi,1.0,3.0,3.0,0.0,1.0,0.0,1.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,11021.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+4,52010487,Rawalpindi,3.0,6.0,6.0,1.0,2.0,1.0,4.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,3812.0,12461.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,635.3333333333334
+5,42644685,Rawalpindi,2.0,3.0,3.0,1.0,1.0,1.0,2.25, For Sale,"Askari 14, Rawalpindi, Punjab, ",Moderately Old,2722.0,8266.0,Askari 14,Punjab,Askari 14,Houses,907.3333333333334
+6,52099738,Rawalpindi,3.0,2.0,2.0,0.0,1.0,1.0,1.15, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1171.0,9821.0,Bahria Town ,Punjab,Bahria Town Rawalpindi,Flats,585.5
+7,51956291,Rawalpindi,1.0,4.0,5.0,0.0,0.0,0.0,1.75, For Sale,"Defence Road, Rawalpindi, Punjab, ",Undefined,1361.0,12858.0,Defence Road,Punjab,Defence Road,Houses,340.25
+8,52094137,Rawalpindi,1.0,4.0,4.0,0.0,2.0,0.0,1.55, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Under Construction,1361.0,11389.0,Snober City,Punjab,Adiala Road,Houses,340.25
+13,51263545,Rawalpindi,3.0,5.0,7.0,1.0,2.0,2.0,16.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,9256.0,17556.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1851.2
+15,48256782,Rawalpindi,1.0,2.0,3.0,1.0,1.0,1.0,1.2, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,8817.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,680.5
+16,49887112,Rawalpindi,4.0,7.0,6.0,1.0,2.0,1.0,2.5, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,2178.0,11478.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,311.14285714285717
+17,47304990,Rawalpindi,3.0,7.0,8.0,2.0,1.0,2.0,0.76, For Sale,"Samarzar Housing Society, Rawalpindi, Punjab, ",New Property,1089.0,6979.0,Samarzar Housing Society,Punjab,Samarzar Housing Society,Houses,155.57142857142858
+27,52091401,Rawalpindi,4.0,7.0,8.0,1.0,3.0,1.0,14.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,26446.0,Bahria Town Phase 4,Punjab,Bahria Town Rawalpindi,Houses,777.8571428571429
+30,52094125,Rawalpindi,1.0,2.0,3.0,0.0,1.0,0.0,1.03, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Under Construction,1361.0,7568.0,Snober City,Punjab,Adiala Road,Houses,680.5
+31,45256816,Rawalpindi,1.0,3.0,3.0,1.0,1.0,0.0,3.15, For Sale,"Askari 14, Rawalpindi, Punjab, ",New Property,2722.0,11572.0,Askari 14,Punjab,Askari 14,Houses,907.3333333333334
+32,52021422,Rawalpindi,3.0,5.0,7.0,1.0,2.0,1.0,4.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,15614.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+34,50284140,Rawalpindi,2.0,2.0,2.0,0.0,1.0,0.0,2.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1361.0,16532.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,680.5
+37,50209078,Rawalpindi,1.0,4.0,4.0,1.0,2.0,1.0,2.1, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1634.0,12852.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,408.5
+38,51302721,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,2.5, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,2178.0,11478.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,435.6
+39,51301674,Rawalpindi,1.0,4.0,6.0,1.0,2.0,1.0,1.7, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,12491.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,340.25
+40,51302811,Rawalpindi,2.0,6.0,6.0,1.0,2.0,1.0,3.85, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,2178.0,17677.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,363.0
+41,51508937,Rawalpindi,3.0,8.0,8.0,1.0,3.0,1.0,9.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,5445.0,16529.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,680.625
+52,52082021,Rawalpindi,3.0,6.0,6.0,1.0,2.0,1.0,3.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,13777.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+56,51634543,Rawalpindi,2.0,3.0,3.0,1.0,1.0,1.0,1.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,12491.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+58,52001444,Rawalpindi,2.0,3.0,4.0,1.0,2.0,1.0,2.1, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,1361.0,15430.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+60,51295940,Rawalpindi,2.0,6.0,6.0,0.0,2.0,1.0,2.75, For Sale,"Gulshan Abad, Rawalpindi, Punjab, ",Relatively New,2722.0,10103.0,Gulshan Abad Sector 1,Punjab,Gulshan Abad,Houses,453.6666666666667
+61,51704923,Rawalpindi,1.0,4.0,4.0,1.0,2.0,1.0,0.75, For Sale,"Islamabad Highway, Rawalpindi, Punjab, ",Undefined,544.0,13787.0,Wakeel Colony,Punjab,Islamabad Highway,Houses,136.0
+63,52103294,Rawalpindi,3.0,3.0,3.0,2.0,2.0,1.0,0.95, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,1089.0,8724.0,Snober City,Punjab,Adiala Road,Houses,363.0
+72,52103070,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,10.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,19284.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+73,51682921,Rawalpindi,3.0,5.0,6.0,1.0,2.0,2.0,5.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,19287.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,544.4
+76,52107528,Rawalpindi,1.0,4.0,4.0,1.0,1.0,0.0,1.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,1361.0,13960.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,340.25
+77,52107625,Rawalpindi,1.0,3.0,4.0,0.0,2.0,0.0,10.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,5445.0,18365.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1815.0
+78,52107538,Rawalpindi,2.0,3.0,4.0,1.0,2.0,2.0,1.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,12491.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+82,52091874,Rawalpindi,3.0,5.0,6.0,0.0,2.0,0.0,3.29, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,2722.0,12087.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+83,51875976,Rawalpindi,2.0,5.0,6.0,0.0,2.0,0.0,2.6, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,2178.0,11938.0,Snober City,Punjab,Adiala Road,Houses,435.6
+84,51116208,Rawalpindi,1.0,4.0,4.0,1.0,2.0,1.0,1.25, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,1361.0,9184.0,Snober City,Punjab,Adiala Road,Houses,340.25
+85,51554173,Rawalpindi,3.0,2.0,2.0,2.0,1.0,1.0,1.05, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,1361.0,7715.0,Snober City,Punjab,Adiala Road,Houses,680.5
+86,51875275,Rawalpindi,1.0,3.0,3.0,1.0,1.0,1.0,1.2, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,1089.0,11019.0,Snober City,Punjab,Adiala Road,Houses,363.0
+87,52009345,Rawalpindi,2.0,3.0,3.0,0.0,0.0,0.0,1.4, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,1361.0,10287.0,Snober City,Punjab,Adiala Road,Houses,453.6666666666667
+89,51921711,Rawalpindi,2.0,5.0,6.0,1.0,2.0,0.0,3.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,2722.0,14511.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,544.4
+90,49860339,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,20206.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,544.4
+91,51016022,Rawalpindi,1.0,2.0,3.0,0.0,1.0,2.0,7.35, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,5445.0,13499.0,Bahria Town Phase 6,Punjab,Bahria Town Rawalpindi,Houses,2722.5
+96,51979652,Rawalpindi,3.0,8.0,9.0,2.0,3.0,1.0,6.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,5445.0,11938.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,680.625
+97,51979780,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,5.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,4356.0,13200.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,871.2
+98,51989142,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,3.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,2722.0,13777.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Houses,544.4
+99,51991047,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,4.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,15614.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+100,51532223,Rawalpindi,2.0,4.0,5.0,1.0,2.0,1.0,1.9, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,13960.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+102,51996589,Rawalpindi,2.0,3.0,4.0,1.0,1.0,1.0,1.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,11756.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+104,51162053,Rawalpindi,1.0,2.0,3.0,1.0,1.0,1.0,1.05, For Sale,"Islamabad Highway, Rawalpindi, Punjab, ",Undefined,1361.0,7715.0,Wakeel Colony,Punjab,Islamabad Highway,Houses,680.5
+112,51672453,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,3.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,2722.0,14144.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+113,51950125,Rawalpindi,1.0,2.0,2.0,0.0,1.0,0.0,0.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,1443.0,5544.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Flats,721.5
+114,51077336,Rawalpindi,1.0,3.0,4.0,1.0,1.0,1.0,1.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,2178.0,8494.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,726.0
+118,52017842,Rawalpindi,1.0,8.0,10.0,1.0,3.0,1.0,2.45, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,12854.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,238.25
+119,52034096,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,4.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,17450.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+120,52018174,Rawalpindi,1.0,8.0,10.0,1.0,3.0,1.0,2.45, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,12854.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,238.25
+121,52002062,Rawalpindi,1.0,4.0,2.0,1.0,1.0,1.0,4.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Moderately Old,2722.0,15797.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,680.5
+125,51551755,Rawalpindi,1.0,3.0,3.0,1.0,1.0,1.0,2.45, For Sale,"Askari 14, Rawalpindi, Punjab, ",Undefined,2722.0,9001.0,Askari 14,Punjab,Askari 14,Houses,907.3333333333334
+126,52102284,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,4.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,2450.0,17347.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,490.0
+127,52098298,Rawalpindi,1.0,3.0,4.0,1.0,1.0,0.0,2.7, For Sale,Punjab Government Servant Housing Foundation,Relatively New,2722.0,9919.0,Punjab Government Servant Housing Foundation (PGSHF),Punjab,Punjab Government Servant Housing Foundation,Houses,907.3333333333334
+133,51591765,Rawalpindi,2.0,3.0,3.0,0.0,1.0,0.0,1.55, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,1361.0,11389.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+134,51591265,Rawalpindi,2.0,3.0,3.0,1.0,1.0,1.0,2.1, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2178.0,9642.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,726.0
+138,52018236,Rawalpindi,1.0,8.0,10.0,1.0,3.0,1.0,2.45, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,12854.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,238.25
+139,52072977,Rawalpindi,2.0,5.0,6.0,0.0,2.0,0.0,2.38, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,12487.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+140,52023250,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,3.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,12491.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+141,51979314,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,3.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,13960.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+142,51880846,Rawalpindi,3.0,5.0,6.0,1.0,2.0,2.0,8.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,4628.0,19339.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,925.6
+143,50261711,Rawalpindi,1.0,5.0,5.0,1.0,2.0,1.0,1.15, For Sale,"New Afzal Town, Rawalpindi, Punjab, ",Old Property,1361.0,8450.0,New Afzal Town,Punjab,New Afzal Town,Houses,272.2
+144,52099591,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2995.0,18364.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,599.0
+145,52027623,Rawalpindi,1.0,3.0,3.0,1.0,1.0,4.0,1.5, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,11021.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,453.6666666666667
+147,47823535,Rawalpindi,3.0,7.0,6.0,1.0,2.0,1.0,1.1, For Sale,"Chakri Road, Rawalpindi, Punjab, ",Undefined,1361.0,8082.0,Chakri Road,Punjab,Chakri Road,Houses,194.42857142857142
+154,51993975,Rawalpindi,1.0,4.0,4.0,1.0,2.0,1.0,1.36, For Sale,"Range Road, Rawalpindi, Punjab, ",Relatively New,1089.0,12489.0,Range Road,Punjab,Range Road,Houses,272.25
+158,49904459,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,3.6, For Sale,"Gulraiz Housing Scheme, Rawalpindi, Punjab, ",Relatively New,4356.0,8264.0,Gulraiz Housing Society Phase 6,Punjab,Gulraiz Housing Scheme,Houses,871.2
+159,51892821,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,4.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,17267.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+160,51914137,Rawalpindi,4.0,6.0,7.0,1.0,2.0,2.0,18.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,10890.0,16529.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,1815.0
+161,51987240,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,6.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3539.0,19638.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,707.8
+163,51534142,Rawalpindi,4.0,5.0,6.0,1.0,2.0,1.0,10.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,19743.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+164,48756405,Rawalpindi,1.0,5.0,6.0,1.0,1.0,1.0,2.15, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,11280.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+169,48894977,Rawalpindi,2.0,4.0,6.0,2.0,2.0,2.0,2.6, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Undefined,2314.0,11236.0,Snober City,Punjab,Adiala Road,Houses,578.5
+170,51989044,Rawalpindi,2.0,5.0,5.0,1.0,1.0,1.0,3.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,2722.0,13960.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,544.4
+171,52108899,Rawalpindi,3.0,6.0,6.0,1.0,2.0,0.0,7.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Moderately Old,5445.0,14601.0,Bahria Town Phase 4,Punjab,Bahria Town Rawalpindi,Houses,907.5
+175,51597354,Rawalpindi,2.0,5.0,5.0,1.0,1.0,1.0,3.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Moderately Old,2722.0,13226.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,544.4
+176,51735835,Rawalpindi,2.0,2.0,2.0,1.0,1.0,1.0,1.05, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1361.0,7715.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,680.5
+177,51485886,Rawalpindi,3.0,6.0,6.0,1.0,2.0,1.0,3.5, For Sale,"Gulraiz Housing Scheme, Rawalpindi, Punjab, ",Moderately Old,3267.0,10713.0,Gulraiz Housing Society Phase 3,Punjab,Gulraiz Housing Scheme,Houses,544.5
+178,46673237,Rawalpindi,4.0,4.0,5.0,2.0,1.0,2.0,1.35, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,1361.0,9919.0,Snober City,Punjab,Adiala Road,Houses,340.25
+180,51978745,Rawalpindi,4.0,1.0,1.0,1.0,1.0,2.0,0.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,681.0,10279.0,Bahria Town ,Punjab,Bahria Town Rawalpindi,Flats,681.0
+186,52014022,Rawalpindi,1.0,2.0,2.0,0.0,1.0,0.0,1.05, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1361.0,7715.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,680.5
+188,49727392,Rawalpindi,1.0,5.0,6.0,1.0,2.0,2.0,1.2, For Sale,"Defence Road, Rawalpindi, Punjab, ",Moderately Old,1361.0,8817.0,Defence Road,Punjab,Defence Road,Houses,272.2
+193,48712365,Rawalpindi,2.0,6.0,5.0,1.0,3.0,1.0,2.35, For Sale,"Gulshan Abad, Rawalpindi, Punjab, ",Relatively New,2722.0,8633.0,Gulshan Abad,Punjab,Gulshan Abad,Houses,453.6666666666667
+194,52108189,Rawalpindi,2.0,4.0,4.0,0.0,2.0,2.0,2.0, For Sale,"Aria Mohalla, Rawalpindi, Punjab, ",Moderately Old,1361.0,14695.0,Aria Mohalla,Punjab,Aria Mohalla,Houses,340.25
+201,50639795,Rawalpindi,3.0,4.0,6.0,1.0,2.0,1.0,4.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,18185.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,680.5
+202,52085681,Rawalpindi,4.0,8.0,6.0,1.0,3.0,1.0,3.2, For Sale,"Gulshan Abad, Rawalpindi, Punjab, ",Moderately Old,2722.0,11756.0,Gulshan Abad,Punjab,Gulshan Abad,Houses,340.25
+204,51638226,Rawalpindi,3.0,5.0,6.0,1.0,3.0,1.0,18.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,33058.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+205,52020303,Rawalpindi,2.0,2.0,2.0,0.0,1.0,1.0,2.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,9919.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,1361.0
+207,52103268,Rawalpindi,2.0,2.0,2.0,1.0,1.0,1.0,0.88, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Under Construction,817.0,10771.0,Snober City,Punjab,Adiala Road,Houses,408.5
+209,52102270,Rawalpindi,1.0,1.0,1.0,1.0,1.0,1.0,6.4, For Sale,"Askari 14, Rawalpindi, Punjab, ",Undefined,3267.0,19590.0,Askari 14,Punjab,Askari 14,Houses,3267.0
+210,52001735,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,16532.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+211,51995709,Rawalpindi,1.0,4.0,5.0,1.0,1.0,1.0,3.15, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,16527.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,476.5
+215,50562043,Rawalpindi,4.0,4.0,5.0,1.0,1.0,1.0,5.75, For Sale,"Satellite Town, Rawalpindi, Punjab, ",New Property,1906.0,30168.0,Satellite Town ,Punjab,Satellite Town,Houses,476.5
+223,52024829,Rawalpindi,4.0,5.0,7.0,1.0,3.0,2.0,15.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,27548.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+224,51891480,Rawalpindi,1.0,5.0,5.0,1.0,1.0,1.0,3.85, For Sale,"Gulshan Abad, Rawalpindi, Punjab, ",Relatively New,5445.0,7071.0,Gulshan Abad Sector 2,Punjab,Gulshan Abad,Houses,1089.0
+227,51976719,Rawalpindi,2.0,5.0,5.0,1.0,2.0,1.0,4.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,17083.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+232,51937505,Rawalpindi,2.0,5.0,5.0,1.0,2.0,0.0,4.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,15797.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Houses,544.4
+233,51874928,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,3.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,13226.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+235,48609630,Rawalpindi,1.0,5.0,7.0,1.0,2.0,0.0,2.2, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,11542.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+236,52076503,Rawalpindi,1.0,3.0,4.0,1.0,1.0,1.0,1.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,14328.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+238,52091839,Rawalpindi,1.0,3.0,3.0,1.0,1.0,0.0,1.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,13593.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+244,48462130,Rawalpindi,1.0,4.0,4.0,0.0,2.0,0.0,1.5, For Sale,Punjab Government Servant Housing Foundation,Relatively New,1361.0,11021.0,Punjab Government Servant Housing Foundation (PGSHF),Punjab,Punjab Government Servant Housing Foundation,Houses,340.25
+245,48638197,Rawalpindi,1.0,3.0,4.0,0.0,2.0,0.0,1.55, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Relatively New,1634.0,9486.0,Snober City,Punjab,Adiala Road,Houses,544.6666666666666
+246,51550999,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,6.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,22961.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,544.4
+247,45769309,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,20206.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,544.4
+248,46568835,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,5.15, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,18920.0,Bahria Town Phase 4,Punjab,Bahria Town Rawalpindi,Houses,544.4
+249,48395473,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,10.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,19284.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+250,49388905,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,13.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,23875.0,Bahria Town Phase 4,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+251,51638390,Rawalpindi,1.0,1.0,1.0,1.0,1.0,1.0,6.0, For Sale,"Askari 14, Rawalpindi, Punjab, ",Undefined,2722.0,22043.0,Askari 14,Punjab,Askari 14,Houses,2722.0
+252,52005356,Rawalpindi,3.0,4.0,6.0,1.0,1.0,1.0,3.0, For Sale,"Askari 14, Rawalpindi, Punjab, ",Moderately Old,6534.0,4591.0,Askari 14,Punjab,Askari 14,Houses,1633.5
+253,51994406,Rawalpindi,2.0,4.0,6.0,1.0,2.0,1.0,3.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14511.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,680.5
+255,51724730,Rawalpindi,2.0,5.0,5.0,1.0,2.0,1.0,2.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14690.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+256,51724554,Rawalpindi,2.0,5.0,5.0,1.0,2.0,2.0,2.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14428.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+257,51968795,Rawalpindi,2.0,2.0,2.0,0.0,1.0,0.0,1.47, For Sale,"Janjua Town, Rawalpindi, Punjab, ",Relatively New,1361.0,10801.0,Janjua Town,Punjab,Janjua Town,Houses,680.5
+258,51352172,Rawalpindi,1.0,4.0,4.0,1.0,1.0,1.0,2.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,16532.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,340.25
+260,51993827,Rawalpindi,2.0,5.0,5.0,1.0,2.0,1.0,2.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,1361.0,16532.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,272.2
+264,52091460,Rawalpindi,3.0,4.0,5.0,0.0,1.0,0.0,3.2, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,11756.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,680.5
+267,46234055,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,9.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,17080.0,Bahria Town Phase 5,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+268,51275216,Rawalpindi,3.0,5.0,6.0,6.0,2.0,1.0,18.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,33058.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+269,48991877,Rawalpindi,4.0,7.0,7.0,1.0,2.0,1.0,10.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,19100.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,777.8571428571429
+270,52080372,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,6.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,2722.0,24982.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,544.4
+271,49622469,Rawalpindi,4.0,5.0,6.0,1.0,2.0,1.0,5.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,4356.0,13315.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,871.2
+272,52074767,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,6.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,2722.0,24982.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,544.4
+278,51711535,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,16532.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+279,51615593,Rawalpindi,4.0,5.0,5.0,1.0,2.0,0.0,5.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3539.0,15824.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,707.8
+280,47904227,Rawalpindi,3.0,6.0,6.0,1.0,1.0,1.0,9.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,18182.0,Bahria Town Phase 4,Punjab,Bahria Town Rawalpindi,Houses,907.5
+283,51523095,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,20206.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,544.4
+286,52086370,Rawalpindi,1.0,2.0,2.0,0.0,1.0,0.0,1.15, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1361.0,8450.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,680.5
+287,51997405,Rawalpindi,4.0,5.0,6.0,3.0,2.0,1.0,1.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1933.0,9571.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Upper,386.6
+290,51470893,Rawalpindi,1.0,3.0,4.0,1.0,1.0,0.0,2.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,14695.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+291,45421858,Rawalpindi,2.0,5.0,7.0,1.0,2.0,1.0,3.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,13593.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+292,43542179,Rawalpindi,5.0,5.0,0.0,0.0,2.0,0.0,2.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,1906.0,14166.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+293,52072686,Rawalpindi,3.0,5.0,5.0,1.0,2.0,2.0,4.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,4084.0,11019.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,816.8
+294,52046942,Rawalpindi,1.0,3.0,4.0,1.0,1.0,1.0,1.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,13226.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+295,52046914,Rawalpindi,1.0,3.0,4.0,1.0,1.0,1.0,1.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,12491.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+296,52058820,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,5.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,19287.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,544.4
+303,51611642,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,5.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,4900.0,10714.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,980.0
+304,51595199,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,4.1, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,15062.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+306,51205006,Rawalpindi,1.0,2.0,2.0,1.0,1.0,0.0,0.64, For Sale,"Range Road, Rawalpindi, Punjab, ",Relatively New,544.0,11765.0,Range Road,Punjab,Range Road,Houses,272.0
+307,51432314,Rawalpindi,2.0,6.0,6.0,1.0,2.0,0.0,5.5, For Sale,"Range Road, Rawalpindi, Punjab, ",Relatively New,3294.0,16697.0,Range Road,Punjab,Range Road,Houses,549.0
+308,49607472,Rawalpindi,1.0,4.0,5.0,1.0,1.0,1.0,1.6, For Sale,"Misryal Road, Rawalpindi, Punjab, ",Relatively New,1634.0,9792.0,New Westridge,Punjab,Misryal Road,Houses,408.5
+309,49056310,Rawalpindi,1.0,4.0,5.0,1.0,2.0,1.0,1.85, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,13593.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+312,52108714,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,3.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2995.0,11686.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,599.0
+313,52108690,Rawalpindi,1.0,3.0,4.0,1.0,1.0,1.0,1.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,12123.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+314,49675006,Rawalpindi,3.0,5.0,7.0,1.0,2.0,1.0,2.2, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,11542.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,381.2
+315,49615257,Rawalpindi,1.0,5.0,7.0,1.0,2.0,1.0,2.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,13116.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+316,49223180,Rawalpindi,3.0,3.0,3.0,0.0,1.0,1.0,4.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14695.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Houses,907.3333333333334
+318,50538717,Rawalpindi,3.0,6.0,6.0,1.0,2.0,1.0,6.15, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,4084.0,15059.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,680.6666666666666
+320,51962452,Rawalpindi,6.0,6.0,7.0,1.0,3.0,2.0,18.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,9801.0,18365.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,1633.5
+321,51970885,Rawalpindi,4.0,5.0,6.0,1.0,3.0,1.0,16.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,30854.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+323,51981515,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,9.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,16529.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+326,51974906,Rawalpindi,1.0,4.0,4.0,1.0,0.0,1.0,9.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,5445.0,16529.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1361.25
+327,51981512,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,10.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,19100.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+328,52108553,Rawalpindi,3.0,5.0,5.0,1.0,2.0,2.0,4.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14695.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+329,48246948,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,3.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Moderately Old,2722.0,13777.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,544.4
+330,52102051,Rawalpindi,1.0,4.0,4.0,1.0,2.0,1.0,1.85, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,13593.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+332,51969461,Rawalpindi,1.0,3.0,4.0,1.0,1.0,1.0,5.0, For Sale,"Gulraiz Housing Scheme, Rawalpindi, Punjab, ",Undefined,3267.0,15305.0,Gulraiz Housing Scheme,Punjab,Gulraiz Housing Scheme,Houses,1089.0
+333,51707555,Rawalpindi,4.0,2.0,2.0,1.0,1.0,2.0,0.62, For Sale,"Samarzar Housing Society, Rawalpindi, Punjab, ",Relatively New,817.0,7589.0,Samarzar Housing Society,Punjab,Samarzar Housing Society,Houses,408.5
+337,52108665,Rawalpindi,1.0,4.0,5.0,0.0,2.0,1.0,1.4, For Sale,"Munawar Colony, Rawalpindi, Punjab, ",New Property,1089.0,12856.0,Munawar Colony,Punjab,Munawar Colony,Houses,272.25
+338,51896056,Rawalpindi,2.0,5.0,5.0,1.0,2.0,0.0,2.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14690.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+339,51875096,Rawalpindi,3.0,4.0,5.0,1.0,1.0,0.0,4.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3539.0,12150.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,884.75
+340,51825015,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,3.15, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,11572.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+341,51761211,Rawalpindi,2.0,5.0,5.0,1.0,2.0,0.0,2.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14690.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+343,52042120,Rawalpindi,1.0,5.0,5.0,1.0,1.0,1.0,2.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,12067.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+344,52041911,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,2.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,12592.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+345,52041812,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,2.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,11805.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+346,52042035,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,2.2, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,11542.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+352,49684657,Rawalpindi,2.0,3.0,5.0,1.0,2.0,0.0,5.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,20573.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,907.3333333333334
+354,47453112,Rawalpindi,2.0,5.0,5.0,1.0,1.0,1.0,3.5, For Sale,"Askari 13, Rawalpindi, Punjab, ",Moderately Old,2722.0,12858.0,Askari 13,Punjab,Askari 13,Houses,544.4
+355,51790580,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3267.0,13774.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,653.4
+356,51790423,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,5.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,20573.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+357,51767573,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,4.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,16532.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+358,51766748,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,5.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,21675.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+361,49164897,Rawalpindi,4.0,7.0,7.0,1.0,2.0,1.0,11.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,20202.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,777.8571428571429
+362,52067373,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,4.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,18001.0,Bahria Town Phase 6,Punjab,Bahria Town Rawalpindi,Houses,544.4
+366,52030563,Rawalpindi,6.0,5.0,7.0,1.0,2.0,1.0,1.9, For Sale,"Gulraiz Housing Scheme, Rawalpindi, Punjab, ",New Property,1634.0,11628.0,Gulraiz Housing Society Phase 2,Punjab,Gulraiz Housing Scheme,Houses,326.8
+369,52035087,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,3.2, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,1906.0,16789.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+370,51556271,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,6.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,22961.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,544.4
+371,51038037,Rawalpindi,2.0,1.0,1.0,0.0,1.0,1.0,0.54, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,653.0,8270.0,C Junction Commercial,Punjab,Bahria Town Rawalpindi,Flats,653.0
+372,51058036,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,2.45, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,12854.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+373,50799734,Rawalpindi,2.0,5.0,7.0,1.0,2.0,1.0,5.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,19838.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+374,51766559,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,3.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,12491.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+375,51760077,Rawalpindi,2.0,5.0,5.0,1.0,2.0,1.0,3.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,17314.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+376,51759957,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.35, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,15981.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+377,51750760,Rawalpindi,1.0,4.0,4.0,1.0,2.0,1.0,2.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14166.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,476.5
+378,51750350,Rawalpindi,2.0,5.0,5.0,1.0,2.0,0.0,3.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,17051.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+379,51738761,Rawalpindi,2.0,5.0,5.0,1.0,1.0,1.0,3.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14328.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+380,52004402,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,2.35, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,12329.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+381,51960297,Rawalpindi,3.0,6.0,6.0,1.0,2.0,1.0,3.2, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,2722.0,11756.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+384,51860444,Rawalpindi,2.0,7.0,7.0,1.0,3.0,2.0,3.45, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,18101.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,272.2857142857143
+385,51859898,Rawalpindi,2.0,5.0,5.0,1.0,2.0,1.0,3.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2586.0,14888.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,517.2
+386,52036812,Rawalpindi,3.0,5.0,6.0,1.0,2.0,2.0,9.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,17906.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+387,52079211,Rawalpindi,4.0,7.0,8.0,2.0,3.0,0.0,1.7, For Sale,"High Court Road, Rawalpindi, Punjab, ",Relatively New,1361.0,12491.0,High Court Road,Punjab,High Court Road,Houses,194.42857142857142
+388,50429455,Rawalpindi,1.0,3.0,4.0,1.0,2.0,1.0,1.36, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,9993.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,453.6666666666667
+389,51321232,Rawalpindi,3.0,4.0,6.0,1.0,2.0,1.0,1.65, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Moderately Old,1361.0,12123.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+390,52093168,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,2722.0,20206.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+391,52076158,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,11.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,21488.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+392,48498267,Rawalpindi,2.0,7.0,7.0,0.0,2.0,1.0,2.7, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,2178.0,12397.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,311.14285714285717
+393,48497951,Rawalpindi,2.0,4.0,5.0,0.0,2.0,0.0,2.0, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,14695.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+394,50663971,Rawalpindi,2.0,3.0,4.0,0.0,1.0,0.0,1.65, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1634.0,10098.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,544.6666666666666
+395,50946698,Rawalpindi,1.0,3.0,3.0,1.0,1.0,1.0,1.2, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1089.0,11019.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,363.0
+396,51738525,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,4.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3539.0,12998.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Houses,707.8
+397,51724949,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,3.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14328.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+398,51724182,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,3.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14144.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+404,51159003,Rawalpindi,2.0,4.0,5.0,1.0,2.0,1.0,2.9, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1634.0,17748.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,408.5
+406,51882418,Rawalpindi,2.0,4.0,5.0,0.0,2.0,0.0,3.4, For Sale,"Gulshan Abad, Rawalpindi, Punjab, ",Relatively New,2722.0,12491.0,Gulshan Abad Sector 2,Punjab,Gulshan Abad,Houses,680.5
+407,51659631,Rawalpindi,2.0,5.0,7.0,1.0,2.0,1.0,3.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,19150.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+408,51992202,Rawalpindi,2.0,5.0,5.0,1.0,2.0,1.0,3.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,1906.0,19150.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+411,50946603,Rawalpindi,2.0,3.0,3.0,0.0,1.0,0.0,1.5, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,11021.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,453.6666666666667
+413,50945460,Rawalpindi,2.0,4.0,4.0,2.0,2.0,1.0,1.9, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,13960.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+415,50945181,Rawalpindi,2.0,4.0,5.0,0.0,2.0,0.0,2.0, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,14695.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+416,51711725,Rawalpindi,3.0,4.0,4.0,1.0,1.0,1.0,4.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3267.0,14998.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,816.75
+417,51710722,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,17267.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+418,51644172,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,17634.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+419,51641482,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,3.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,12858.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+420,51641317,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,3.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,12491.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+421,51628477,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,3.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,13777.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+422,51613451,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3267.0,13774.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,653.4
+423,51611943,Rawalpindi,4.0,7.0,8.0,0.0,3.0,0.0,8.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5990.0,14691.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,855.7142857142857
+424,49268631,Rawalpindi,2.0,3.0,3.0,1.0,1.0,1.0,1.35, For Sale,"Misryal Road, Rawalpindi, Punjab, ",Undefined,1361.0,9919.0,Misryal Road,Punjab,Misryal Road,Houses,453.6666666666667
+425,49257231,Rawalpindi,2.0,5.0,6.0,1.0,2.0,2.0,2.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14166.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+426,51942504,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,1.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,10231.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+427,51893365,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,3.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14328.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+429,52031180,Rawalpindi,3.0,5.0,6.0,1.0,1.0,1.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,2722.0,20206.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+430,52081457,Rawalpindi,5.0,2.0,2.0,1.0,1.0,2.0,1.1, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1198.0,9182.0,Bahria Town ,Punjab,Bahria Town Rawalpindi,Flats,599.0
+432,51875645,Rawalpindi,1.0,6.0,7.0,0.0,2.0,1.0,2.8, For Sale,"Adiala Road, Rawalpindi, Punjab, ",Undefined,2722.0,10287.0,Adiala Road,Punjab,Adiala Road,Houses,453.6666666666667
+433,51664708,Rawalpindi,1.0,2.0,2.0,1.0,1.0,1.0,1.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1933.0,8536.0,Bahria Square Commercial,Punjab,Bahria Town Rawalpindi,Upper,966.5
+434,51993083,Rawalpindi,1.0,3.0,4.0,1.0,2.0,1.0,4.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,4029.0,10921.0,River Loft,Punjab,Bahria Town Rawalpindi,Houses,1343.0
+436,50945132,Rawalpindi,2.0,4.0,5.0,0.0,2.0,0.0,1.75, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,12858.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,340.25
+437,50921182,Rawalpindi,1.0,2.0,2.0,0.0,1.0,0.0,1.2, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,8817.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,680.5
+438,50947009,Rawalpindi,2.0,3.0,4.0,1.0,1.0,1.0,1.55, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1361.0,11389.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,453.6666666666667
+439,51609194,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,4.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3267.0,14998.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,653.4
+440,51608110,Rawalpindi,3.0,5.0,5.0,1.0,3.0,0.0,4.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14695.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+441,51697119,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,3.99, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,14658.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+442,51711531,Rawalpindi,1.0,3.0,4.0,1.0,2.0,1.0,2.05, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,15062.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+443,51940454,Rawalpindi,2.0,4.0,4.0,1.0,2.0,2.0,1.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,10231.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,476.5
+444,51952084,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,2.69, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14113.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,381.2
+445,51952088,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,2.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,13641.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,381.2
+451,52069339,Rawalpindi,3.0,2.0,3.0,0.0,1.0,0.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,20206.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1361.0
+452,43639626,Rawalpindi,4.0,5.0,5.0,3.0,2.0,2.0,26.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,6534.0,39792.0,Bahria Intellectual Village,Punjab,Bahria Town Rawalpindi,Houses,1306.8
+454,52009829,Rawalpindi,1.0,4.0,6.0,0.0,2.0,0.0,1.5, For Sale,Gulshan,Relatively New,1361.0,11021.0,Gulshan,Punjab,Gulshan,Houses,340.25
+459,51836440,Rawalpindi,2.0,4.0,5.0,0.0,2.0,0.0,2.3, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1634.0,14076.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,408.5
+460,51836505,Rawalpindi,2.0,4.0,5.0,0.0,2.0,0.0,2.3, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1634.0,14076.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,408.5
+463,52108504,Rawalpindi,3.0,5.0,5.0,1.0,2.0,0.0,5.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,3539.0,14976.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,707.8
+464,52108464,Rawalpindi,3.0,5.0,5.0,1.0,2.0,1.0,4.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,15614.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+466,51512705,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,11.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,21671.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+472,52054442,Rawalpindi,1.0,3.0,3.0,0.0,2.0,0.0,2.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,1361.0,18369.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+473,52009750,Rawalpindi,1.0,5.0,6.0,0.0,2.0,1.0,2.2, For Sale,"Dhamyal Road, Rawalpindi, Punjab, ",Relatively New,1634.0,13464.0,Dhamyal Road,Punjab,Dhamyal Road,Houses,326.8
+474,52071923,Rawalpindi,2.0,1.0,1.0,0.0,1.0,0.0,1.1, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,762.0,14436.0,River Hills,Punjab,Bahria Town Rawalpindi,Flats,762.0
+481,52066612,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,4.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,2722.0,18185.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Houses,544.4
+482,51939913,Rawalpindi,4.0,6.0,7.0,1.0,2.0,1.0,4.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,3812.0,12461.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,635.3333333333334
+485,51462957,Rawalpindi,1.0,4.0,5.0,1.0,2.0,2.0,2.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,12067.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,476.5
+486,52021603,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,4.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,16532.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+487,51457531,Rawalpindi,2.0,4.0,6.0,1.0,2.0,1.0,1.65, For Sale,"Morgah, Rawalpindi, Punjab, ",Relatively New,1824.0,9046.0,Morgah,Punjab,Morgah,Houses,456.0
+494,49833954,Rawalpindi,1.0,5.0,7.0,1.0,2.0,1.0,2.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,15477.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+495,49890561,Rawalpindi,1.0,4.0,4.0,1.0,0.0,0.0,1.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,8395.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,476.5
+499,52021735,Rawalpindi,1.0,4.0,5.0,1.0,1.0,1.0,1.65, For Sale,"Raheemabad, Rawalpindi, Punjab, ",Relatively New,1361.0,12123.0,Raheemabad,Punjab,Raheemabad,Houses,340.25
+501,52064873,Rawalpindi,2.0,5.0,5.0,1.0,2.0,1.0,5.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,2722.0,20206.0,Bahria Safari Valley ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+504,50778281,Rawalpindi,2.0,3.0,4.0,2.0,1.0,1.0,5.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Moderately Old,4900.0,12041.0,Bahria Town ,Punjab,Bahria Town Rawalpindi,Houses,1633.3333333333333
+505,49738863,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,2.1, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,1906.0,11018.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+506,48833206,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,4.3, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,15797.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+507,51932621,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,4.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3267.0,13009.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,653.4
+509,51085480,Rawalpindi,1.0,3.0,3.0,2.0,1.0,0.0,1.65, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Moderately Old,1634.0,10098.0,Airport Housing Society,Punjab,Airport Housing Society,Houses,544.6666666666666
+510,52078566,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,3.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,13226.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+511,51327757,Rawalpindi,2.0,5.0,7.0,1.0,2.0,2.0,11.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,21488.0,Bahria Town Phase 3,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+513,49257192,Rawalpindi,2.0,5.0,6.0,1.0,2.0,2.0,2.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14166.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+514,52051982,Rawalpindi,1.0,3.0,3.0,0.0,2.0,0.0,2.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Undefined,1361.0,18369.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+515,52107980,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,16.8, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,30854.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+520,52107866,Rawalpindi,2.0,5.0,6.0,1.0,2.0,2.0,2.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,10654.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+521,50441814,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,2.25, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,11805.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+522,52060102,Rawalpindi,1.0,4.0,4.0,1.0,1.0,1.0,1.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,1361.0,12123.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,340.25
+523,49398742,Rawalpindi,2.0,5.0,7.0,0.0,2.0,0.0,4.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,18001.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Houses,544.4
+524,52055755,Rawalpindi,3.0,5.0,7.0,1.0,2.0,0.0,5.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,21675.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+525,50456729,Rawalpindi,2.0,5.0,6.0,1.0,2.0,2.0,2.1, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,11018.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+527,51413261,Rawalpindi,1.0,2.0,2.0,1.0,1.0,1.0,4.2, For Sale,"Askari 14, Rawalpindi, Punjab, ",Relatively New,3866.0,10864.0,Askari 14,Punjab,Askari 14,Houses,1933.0
+530,48610130,Rawalpindi,2.0,3.0,4.0,1.0,1.0,1.0,1.6, For Sale,"Airport Housing Society, Rawalpindi, Punjab, ",Relatively New,1634.0,9792.0,Airport Housing Society ,Punjab,Airport Housing Society,Houses,544.6666666666666
+531,51719380,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,4.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,17450.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+532,51368270,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,4.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,3267.0,15152.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,653.4
+537,50131944,Rawalpindi,2.0,1.0,1.0,1.0,1.0,1.0,0.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,790.0,10759.0,Bahria Paradise,Punjab,Bahria Town Rawalpindi,Flats,790.0
+540,50667432,Rawalpindi,1.0,3.0,4.0,1.0,1.0,2.0,1.55, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,11389.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+541,50623636,Rawalpindi,3.0,5.0,6.0,2.0,2.0,2.0,6.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,12397.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+542,50588811,Rawalpindi,3.0,5.0,7.0,2.0,2.0,1.0,7.55, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,13866.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+543,51049644,Rawalpindi,2.0,3.0,4.0,1.0,2.0,1.0,1.6, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1634.0,9792.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.6666666666666
+546,48767778,Rawalpindi,1.0,5.0,6.0,1.0,2.0,1.0,1.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,12491.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,272.2
+547,51677772,Rawalpindi,1.0,1.0,2.0,2.0,1.0,0.0,1.4, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",New Property,980.0,14286.0,Bahria Heights,Punjab,Bahria Town Rawalpindi,Flats,980.0
+548,51869650,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,2.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,10470.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+549,52047466,Rawalpindi,3.0,5.0,7.0,1.0,2.0,0.0,15.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Under Construction,5445.0,27548.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+550,52046986,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,5.9, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,21675.0,Bahria Greens ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+551,51539446,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,18.0, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,5445.0,33058.0,Bahria Town Phase 2,Punjab,Bahria Town Rawalpindi,Houses,1089.0
+552,52044719,Rawalpindi,5.0,5.0,6.0,1.0,2.0,2.0,4.95, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,18185.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+553,50639959,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,4.75, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,17450.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+554,50038434,Rawalpindi,3.0,5.0,6.0,1.0,2.0,1.0,3.7, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,13593.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,544.4
+555,52103427,Rawalpindi,1.0,3.0,4.0,1.0,2.0,0.0,1.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,13593.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+556,52103370,Rawalpindi,1.0,3.0,4.0,1.0,1.0,0.0,1.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,12123.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+557,52103402,Rawalpindi,1.0,3.0,4.0,1.0,1.0,1.0,1.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1361.0,11021.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,453.6666666666667
+558,52088802,Rawalpindi,5.0,5.0,7.0,1.0,1.0,2.0,1.55, For Sale,"Gulraiz Housing Scheme, Rawalpindi, Punjab, ",Relatively New,1525.0,10164.0,Gulraiz Housing Scheme,Punjab,Gulraiz Housing Scheme,Houses,305.0
+559,52093548,Rawalpindi,4.0,5.0,6.0,2.0,2.0,1.0,0.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,817.0,6120.0,Bahria Town Phase 7,Punjab,Bahria Town Rawalpindi,Flats,163.4
+560,51401671,Rawalpindi,1.0,5.0,7.0,1.0,2.0,1.0,2.65, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,13903.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+561,51381073,Rawalpindi,2.0,5.0,6.0,1.0,2.0,1.0,2.85, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,1906.0,14953.0,Bahria Town Phase 8 ,Punjab,Bahria Town Rawalpindi,Houses,381.2
+562,51352176,Rawalpindi,2.0,5.0,7.0,1.0,2.0,1.0,3.5, For Sale,"Bahria Town Rawalpindi, Rawalpindi, Punjab, ",Relatively New,2722.0,12858.0,Bahria Town Phase 8,Punjab,Bahria Town Rawalpindi,Houses,544.4
+564,52041488,Lahore,3.0,5.0,6.0,1.0,2.0,1.0,7.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13774.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1089.0
+566,51873010,Lahore,4.0,5.0,6.0,2.0,3.0,3.0,7.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,6534.0,12167.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1306.8
+567,51998644,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,2.05, For Sale,"Park View City, Lahore, Punjab, ",Undefined,1361.0,15062.0,Park View City ,Punjab,Park View City,Houses,453.6666666666667
+568,51990962,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,1.9, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,13960.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+571,52076026,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,6.75, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,12397.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+573,52023283,Lahore,3.0,5.0,7.0,1.0,2.0,2.0,2.97, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,2722.0,10911.0,Bahria Town ,Punjab,Bahria Town,Houses,544.4
+574,52097590,Lahore,2.0,5.0,6.0,2.0,2.0,2.0,5.99, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,2722.0,22006.0,DHA Phase 5 ,Punjab,DHA Defence,Houses,544.4
+575,51611705,Lahore,1.0,3.0,1.0,1.0,1.0,1.0,3.85, For Sale,"Askari, Lahore, Punjab, ",Undefined,2722.0,14144.0,Askari 10,Punjab,Askari,Houses,907.3333333333334
+577,52115793,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,8.15, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14968.0,DHA Phase 5,Punjab,DHA Defence,Houses,1089.0
+578,50314241,Lahore,1.0,3.0,4.0,1.0,1.0,1.0,2.1, For Sale,"Gulberg, Lahore, Punjab, ",Relatively New,6615.0,3175.0,The Opus Luxury Residence,Punjab,Gulberg,Houses,2205.0
+579,52107762,Lahore,1.0,4.0,5.0,1.0,2.0,1.0,2.55, For Sale,"Defence Road, Lahore, Punjab, ",Relatively New,1361.0,18736.0,Dream Gardens ,Punjab,Defence Road,Houses,340.25
+580,52095674,Lahore,1.0,4.0,4.0,1.0,2.0,1.0,1.45, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,10654.0,Park View City ,Punjab,Park View City,Houses,340.25
+582,52020374,Lahore,3.0,5.0,7.0,1.0,2.0,2.0,5.18, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,5445.0,9513.0,Bahria Town ,Punjab,Bahria Town,Houses,1089.0
+583,52021623,Lahore,3.0,5.0,7.0,1.0,2.0,2.0,2.95, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,2722.0,10838.0,Bahria Town ,Punjab,Bahria Town,Houses,544.4
+590,51723717,Lahore,2.0,5.0,6.0,1.0,1.0,1.0,2.19, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,16091.0,DHA 9 Town,Punjab,DHA Defence,Houses,272.2
+592,51942520,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,6.31, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11589.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+594,51323487,Lahore,1.0,3.0,3.0,0.0,1.0,1.0,1.59, For Sale,"GT Road, Lahore, Punjab, ",Moderately Old,1361.0,11683.0,Al Ahmad,Punjab,GT Road,Houses,453.6666666666667
+595,51442925,Lahore,1.0,5.0,5.0,1.0,2.0,0.0,3.3, For Sale,"GT Road, Lahore, Punjab, ",Relatively New,2042.0,16161.0,Bismillah Housing Scheme,Punjab,GT Road,Houses,408.4
+596,52045164,Lahore,2.0,4.0,5.0,1.0,2.0,1.0,2.25, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,16532.0,Park View City,Punjab,Park View City,Houses,340.25
+597,51880713,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,7.45, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,6534.0,11402.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1306.8
+598,51986908,Lahore,1.0,4.0,5.0,1.0,2.0,1.0,2.35, For Sale,"Defence Road, Lahore, Punjab, ",Relatively New,1361.0,17267.0,Dream Gardens Phase 1 ,Punjab,Defence Road,Houses,340.25
+599,52003911,Lahore,3.0,5.0,6.0,1.0,2.0,1.0,1.8, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,1361.0,13226.0,Imperial Garden Homes,Punjab,Paragon City,Houses,272.2
+605,52093491,Lahore,4.0,6.0,6.0,2.0,3.0,1.0,7.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,6534.0,11096.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+607,48929677,Lahore,3.0,5.0,6.0,1.0,2.0,1.0,2.88, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,2722.0,10580.0,Bahria Town ,Punjab,Bahria Town,Houses,544.4
+610,52115132,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,8.5, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5990.0,14190.0,DHA Phase 6,Punjab,DHA Defence,Houses,1198.0
+611,50698605,Lahore,3.0,5.0,5.0,1.0,2.0,2.0,3.3, For Sale,"Park View City, Lahore, Punjab, ",Old Property,2722.0,12123.0,Park View City,Punjab,Park View City,Houses,544.4
+615,52034638,Lahore,1.0,3.0,4.0,2.0,2.0,1.0,8.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,15611.0,DHA Phase 4 ,Punjab,DHA Defence,Houses,1815.0
+616,52020555,Lahore,3.0,5.0,7.0,2.0,2.0,2.0,5.0, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,5445.0,9183.0,Bahria Town ,Punjab,Bahria Town,Houses,1089.0
+617,52016238,Lahore,4.0,6.0,7.0,2.0,3.0,1.0,8.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,15152.0,DHA Phase 6,Punjab,DHA Defence,Houses,907.5
+618,51721543,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,11.75, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,10790.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,2178.0
+619,51784184,Lahore,1.0,3.0,4.0,0.0,1.0,1.0,2.35, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Relatively New,1906.0,12329.0,Central Park ,Punjab,Central Park Housing Scheme,Houses,635.3333333333334
+620,52075684,Lahore,1.0,3.0,4.0,2.0,1.0,0.0,1.6, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Relatively New,1361.0,11756.0,Central Park ,Punjab,Central Park Housing Scheme,Houses,453.6666666666667
+626,48361226,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,7.85, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,6534.0,12014.0,DHA Phase 6,Punjab,DHA Defence,Houses,1306.8
+627,51973053,Lahore,2.0,5.0,6.0,1.0,1.0,1.0,7.95, For Sale,"Askari, Lahore, Punjab, ",Relatively New,4084.0,19466.0,Askari 10,Punjab,Askari,Houses,816.8
+630,48910121,Lahore,2.0,2.0,2.0,1.0,1.0,2.0,3.0, For Sale,"Gulberg, Lahore, Punjab, ",Relatively New,1198.0,25042.0,Zafar Al Ahmadi Road,Punjab,Gulberg,Flats,599.0
+634,49287520,Lahore,2.0,5.0,6.0,2.0,2.0,2.0,6.5, For Sale,"DHA Defence, Lahore, Punjab, ",Moderately Old,5445.0,11938.0,DHA Phase 1 ,Punjab,DHA Defence,Houses,1089.0
+635,52116382,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,6.4, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11754.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+636,52017042,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,7.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14601.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1089.0
+637,52017065,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,8.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,15152.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1089.0
+638,52116356,Lahore,1.0,5.0,5.0,1.0,1.0,1.0,4.8, For Sale,"Askari, Lahore, Punjab, ",New Property,2722.0,17634.0,Askari 10 ,Punjab,Askari,Houses,544.4
+639,52116354,Lahore,1.0,5.0,6.0,1.0,2.0,1.0,1.95, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Under Construction,1361.0,14328.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,272.2
+640,52101666,Lahore,4.0,5.0,7.0,2.0,2.0,2.0,17.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,31221.0,DHA Phase 3 ,Punjab,DHA Defence,Houses,1089.0
+645,52083424,Lahore,4.0,5.0,6.0,1.0,2.0,1.0,8.25, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,5445.0,15152.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,1089.0
+650,48528461,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,1.75, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,1361.0,12858.0,Bahria Town ,Punjab,Bahria Town,Houses,453.6666666666667
+652,51309638,Lahore,6.0,5.0,6.0,2.0,2.0,2.0,15.0, For Sale,"DHA Defence, Lahore, Punjab, ",Moderately Old,10890.0,13774.0,DHA Phase 2 ,Punjab,DHA Defence,Houses,2178.0
+653,51655471,Lahore,6.0,5.0,6.0,1.0,2.0,2.0,10.0, For Sale,"DHA Defence, Lahore, Punjab, ",Moderately Old,10890.0,9183.0,DHA Phase 3 ,Punjab,DHA Defence,Houses,2178.0
+654,51263565,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.75, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,5445.0,12397.0,DHA Phase 2 ,Punjab,DHA Defence,Houses,1089.0
+659,52025710,Lahore,2.0,3.0,2.0,1.0,1.0,1.0,1.74, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,12785.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+660,52069797,Lahore,2.0,5.0,4.0,3.0,2.0,1.0,13.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,24793.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+662,52113353,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,7.5, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,13774.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+663,52115848,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,6.45, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11846.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+664,51670722,Lahore,4.0,3.0,4.0,2.0,2.0,2.0,5.85, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,10744.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1815.0
+667,52054379,Lahore,2.0,6.0,7.0,1.0,2.0,2.0,5.5, For Sale,"Township, Lahore, Punjab, ",Relatively New,5445.0,10101.0,Township ,Punjab,Township,Houses,907.5
+669,51404565,Lahore,1.0,1.0,1.0,1.0,1.0,1.0,5.45, For Sale,"Divine Gardens, Lahore, Punjab, ",Relatively New,3812.0,14297.0,Divine Gardens,Punjab,Divine Gardens,Houses,3812.0
+670,50068499,Lahore,1.0,4.0,4.0,1.0,2.0,1.0,2.0, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,14695.0,Park View City ,Punjab,Park View City,Houses,340.25
+671,50068352,Lahore,1.0,4.0,4.0,1.0,2.0,1.0,1.75, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,12858.0,Park View City ,Punjab,Park View City,Houses,340.25
+672,52084153,Lahore,4.0,4.0,5.0,0.0,2.0,0.0,4.65, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,17083.0,DHA Phase 7,Punjab,DHA Defence,Houses,680.5
+673,51205119,Lahore,1.0,4.0,4.0,1.0,2.0,1.0,1.72, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,12638.0,Park View City,Punjab,Park View City,Houses,340.25
+674,50841626,Lahore,3.0,5.0,6.0,1.0,2.0,1.0,2.35, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,2722.0,8633.0,Park View City,Punjab,Park View City,Houses,544.4
+675,52092632,Lahore,2.0,5.0,6.0,0.0,0.0,0.0,6.0, For Sale,"Askari, Lahore, Punjab, ",Relatively New,2995.0,20033.0,Askari 10 ,Punjab,Askari,Houses,599.0
+676,50302451,Lahore,1.0,4.0,4.0,1.0,2.0,1.0,2.05, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,15062.0,Park View City ,Punjab,Park View City,Houses,340.25
+677,49925991,Lahore,3.0,5.0,6.0,2.0,2.0,2.0,2.5, For Sale,"Military Accounts Housing Society, Lahore, Punjab, ",Relatively New,2178.0,11478.0,Military Accounts Housing Society,Punjab,Military Accounts Housing Society,Houses,435.6
+679,51989417,Lahore,2.0,5.0,5.0,1.0,2.0,0.0,3.55, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Relatively New,2913.0,12187.0,Central Park Housing Scheme,Punjab,Central Park Housing Scheme,Houses,582.6
+681,51831044,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.38, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11717.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+683,52006199,Lahore,5.0,8.0,9.0,2.0,2.0,2.0,11.0, For Sale,"Valencia Housing Society, Lahore, Punjab, ",New Property,10890.0,10101.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,1361.25
+684,51107902,Lahore,3.0,5.0,6.0,1.0,2.0,1.0,7.75, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,5445.0,14233.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,1089.0
+685,51151064,Lahore,6.0,7.0,8.0,2.0,2.0,2.0,16.25, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,10890.0,14922.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,1555.7142857142858
+686,51253309,Lahore,4.0,5.0,6.0,1.0,2.0,1.0,8.7, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,5445.0,15978.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,1089.0
+687,45966666,Lahore,1.0,5.0,6.0,1.0,3.0,1.0,2.7, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,1361.0,19838.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,272.2
+688,52058098,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,11.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,20202.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1089.0
+694,51178108,Lahore,1.0,3.0,4.0,3.0,2.0,1.0,2.3, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,1634.0,14076.0,Paragon City ,Punjab,Paragon City,Houses,544.6666666666666
+696,50812357,Lahore,2.0,5.0,5.0,1.0,1.0,1.0,3.86, For Sale,"Architects Engineers Housing Society, Lahore, Punjab, ",Relatively New,2722.0,14181.0,Architects Engineers Housing Society,Punjab,Architects Engineers Housing Society,Houses,544.4
+699,51594498,Lahore,3.0,5.0,7.0,1.0,2.0,1.0,2.86, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,2722.0,10507.0,Bahria Town ,Punjab,Bahria Town,Houses,544.4
+707,47863447,Lahore,5.0,7.0,8.0,2.0,2.0,2.0,16.75, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,10890.0,15381.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,1555.7142857142858
+709,49303863,Lahore,2.0,1.0,1.0,1.0,1.0,1.0,0.65, For Sale,"Bahria Town, Lahore, Punjab, ",Undefined,599.0,10851.0,Bahria Town ,Punjab,Bahria Town,Flats,599.0
+711,52088888,Lahore,4.0,6.0,7.0,1.0,2.0,0.0,18.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,33058.0,DHA Phase 4 ,Punjab,DHA Defence,Houses,907.5
+712,51808957,Lahore,2.0,4.0,5.0,0.0,0.0,0.0,4.49, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2995.0,14992.0,DHA Phase 6,Punjab,DHA Defence,Houses,748.75
+713,51706578,Lahore,3.0,4.0,5.0,1.0,2.0,2.0,6.75, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,24798.0,DHA Phase 5,Punjab,DHA Defence,Houses,680.5
+718,52116562,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,8.7, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,15978.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+721,50130752,Lahore,2.0,6.0,7.0,1.0,2.0,2.0,4.5, For Sale,"Wapda Town, Lahore, Punjab, ",Relatively New,2722.0,16532.0,Wapda Town Phase 1,Punjab,Wapda Town,Houses,453.6666666666667
+722,50130818,Lahore,3.0,6.0,7.0,1.0,2.0,2.0,3.75, For Sale,Nasheman,Relatively New,2722.0,13777.0,Nasheman,Punjab,Nasheman,Houses,453.6666666666667
+725,51252856,Lahore,4.0,5.0,6.0,2.0,0.0,0.0,6.15, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11295.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+727,52000966,Lahore,1.0,2.0,2.0,0.0,1.0,0.0,1.6, For Sale,"Shah Jamal, Lahore, Punjab, ",Relatively New,1280.0,12500.0,Shah Jamal,Punjab,Shah Jamal,Flats,640.0
+728,51991002,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,2.8, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,20573.0,DHA Phase 7,Punjab,DHA Defence,Houses,453.6666666666667
+731,52010156,Lahore,1.0,6.0,6.0,0.0,2.0,1.0,2.3, For Sale,Gulshan,Relatively New,1361.0,16899.0,Gulshan,Punjab,Gulshan,Houses,226.83333333333334
+732,49656374,Lahore,1.0,3.0,5.0,1.0,2.0,1.0,1.5, For Sale,"Bahria Orchard, Lahore, Punjab, ",Relatively New,1361.0,11021.0,Bahria Orchard Phase 2,Punjab,Bahria Orchard,Houses,453.6666666666667
+733,51249207,Lahore,2.0,4.0,5.0,0.0,0.0,0.0,1.89, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,13887.0,DHA 9 Town ,Punjab,DHA Defence,Houses,340.25
+734,50755769,Lahore,4.0,5.0,6.0,2.0,3.0,1.0,15.75, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,14463.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,2178.0
+736,50727213,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,4.65, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,8540.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+739,50948636,Lahore,6.0,6.0,6.0,3.0,3.0,2.0,15.9, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,14601.0,DHA Phase 6,Punjab,DHA Defence,Houses,1815.0
+740,52023909,Lahore,6.0,5.0,5.0,2.0,2.0,2.0,5.5, For Sale,"Inmol Society, Lahore, Punjab, ",Relatively New,5445.0,10101.0,Inmol Employees Society ,Punjab,Inmol Society,Houses,1089.0
+741,52069037,Lahore,1.0,5.0,6.0,0.0,2.0,1.0,3.45, For Sale,"Johar Town, Lahore, Punjab, ",Under Construction,1361.0,25349.0,Johar Town Phase 2,Punjab,Johar Town,Houses,272.2
+749,52013459,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,9.7, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,17815.0,DHA Phase 5,Punjab,DHA Defence,Houses,1089.0
+755,52102734,Lahore,4.0,6.0,7.0,2.0,3.0,2.0,16.0, For Sale,"DHA Defence, Lahore, Punjab, ",Undefined,5445.0,29385.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,907.5
+756,52032619,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,3.8, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",New Property,2722.0,13960.0,Central Park ,Punjab,Central Park Housing Scheme,Houses,544.4
+757,51939875,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,2.0, For Sale,"DHA 11 Rahbar, Lahore, Punjab, ",Relatively New,1361.0,14695.0,DHA 11 Rahbar Phase 2,Punjab,DHA 11 Rahbar,Houses,453.6666666666667
+760,49420369,Lahore,4.0,5.0,6.0,2.0,3.0,1.0,8.15, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,5445.0,14968.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+761,50783513,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.75, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,12397.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+767,51622418,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,7.45, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13682.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1089.0
+768,52114122,Lahore,2.0,3.0,4.0,1.0,2.0,1.0,2.75, For Sale,"DHA 11 Rahbar, Lahore, Punjab, ",Under Construction,1361.0,20206.0,DHA 11 Rahbar Phase 2,Punjab,DHA 11 Rahbar,Houses,453.6666666666667
+769,52011802,Lahore,1.0,4.0,5.0,1.0,2.0,1.0,1.95, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,14328.0,Park View City ,Punjab,Park View City,Houses,340.25
+773,51984835,Lahore,3.0,5.0,6.0,2.0,2.0,2.0,5.5, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,3267.0,16835.0,Bahria Town ,Punjab,Bahria Town,Houses,653.4
+774,51406596,Lahore,1.0,1.0,1.0,1.0,1.0,0.0,1.62, For Sale,"Gulberg, Lahore, Punjab, ",Relatively New,817.0,19829.0,Gulberg 3 ,Punjab,Gulberg,Flats,817.0
+775,51619484,Lahore,2.0,4.0,5.0,1.0,2.0,1.0,4.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,15614.0,DHA Phase 8 ,Punjab,DHA Defence,Houses,680.5
+776,48361013,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,7.7, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14141.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+778,50422729,Lahore,5.0,5.0,5.0,0.0,2.0,0.0,13.0, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,10890.0,11938.0,Bahria Town ,Punjab,Bahria Town,Houses,2178.0
+779,52016922,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,7.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13315.0,DHA Phase 4,Punjab,DHA Defence,Houses,1089.0
+780,52016909,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,7.9, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14509.0,DHA Phase 3,Punjab,DHA Defence,Houses,1089.0
+781,52016635,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,4.4, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,16165.0,DHA Phase 8,Punjab,DHA Defence,Houses,544.4
+782,52033690,Lahore,1.0,1.0,1.0,2.0,1.0,2.0,1.9, For Sale,"Park View City, Lahore, Punjab, ",Undefined,1361.0,13960.0,Park View City,Punjab,Park View City,Houses,1361.0
+787,52113214,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,2.1, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,1361.0,15430.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+788,45688509,Lahore,4.0,6.0,7.0,1.0,2.0,2.0,8.25, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,5445.0,15152.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,907.5
+789,51821847,Lahore,2.0,4.0,5.0,0.0,0.0,0.0,3.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,11940.0,DHA Phase 7,Punjab,DHA Defence,Houses,680.5
+790,52013863,Lahore,2.0,4.0,5.0,0.0,0.0,0.0,4.99, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,18332.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,680.5
+792,50725944,Lahore,2.0,6.0,7.0,1.0,2.0,2.0,4.6, For Sale,"Airline Housing Society, Lahore, Punjab, ",Relatively New,2722.0,16899.0,Airline Housing Society,Punjab,Airline Housing Society,Houses,453.6666666666667
+794,51469306,Lahore,1.0,5.0,6.0,1.0,2.0,1.0,1.65, For Sale,"GT Road, Lahore, Punjab, ",Relatively New,1361.0,12123.0,Al Ahmad,Punjab,GT Road,Houses,272.2
+795,52098314,Lahore,1.0,3.0,4.0,1.0,1.0,1.0,2.15, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,15797.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+796,52098357,Lahore,4.0,5.0,5.0,0.0,2.0,0.0,6.2, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11387.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+797,52098360,Lahore,1.0,3.0,4.0,1.0,1.0,1.0,1.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,14328.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+798,52099595,Lahore,4.0,5.0,6.0,1.0,3.0,1.0,7.98, For Sale,"DHA Defence, Lahore, Punjab, ",Moderately Old,5445.0,14656.0,DHA Phase 4,Punjab,DHA Defence,Houses,1089.0
+799,52100958,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,7.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14601.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+802,51991618,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,8.8, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,16162.0,DHA Phase 8,Punjab,DHA Defence,Houses,1089.0
+803,51997991,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,13.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,23875.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+804,52014024,Lahore,1.0,3.0,4.0,0.0,2.0,2.0,3.2, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,1361.0,23512.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+805,52085414,Lahore,3.0,5.0,6.0,0.0,0.0,0.0,5.1, For Sale,"State Life Housing Society, Lahore, Punjab, ",Under Construction,3267.0,15611.0,State Life Housing Society,Punjab,State Life Housing Society,Houses,653.4
+807,52112493,Lahore,3.0,5.0,6.0,2.0,2.0,1.0,6.1, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,5445.0,11203.0,Bahria Town,Punjab,Bahria Town,Houses,1089.0
+808,51498633,Lahore,4.0,5.0,6.0,2.0,3.0,0.0,6.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,12764.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+814,52116628,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,4.3, For Sale,"OPF Housing Scheme, Lahore, Punjab, ",Relatively New,2722.0,15797.0,OPF Housing Scheme,Punjab,OPF Housing Scheme,Houses,544.4
+815,51737461,Lahore,2.0,3.0,4.0,1.0,1.0,1.0,1.89, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,13887.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+816,51736923,Lahore,2.0,3.0,4.0,1.0,1.0,1.0,1.85, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,13593.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+817,51921483,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,11.85, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,21763.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1089.0
+818,51848520,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,7.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,6534.0,11478.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1306.8
+820,52069590,Lahore,1.0,3.0,4.0,1.0,1.0,1.0,1.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,14328.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+822,52113058,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.5, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,11938.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+823,52100533,Lahore,1.0,4.0,4.0,1.0,2.0,1.0,1.68, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,12344.0,Park View City ,Punjab,Park View City,Houses,340.25
+826,51857266,Lahore,2.0,3.0,2.0,1.0,2.0,1.0,1.64, For Sale,"Raiwind Road, Lahore, Punjab, ",Old Property,1361.0,12050.0,Lake City ,Punjab,Raiwind Road,Houses,453.6666666666667
+827,51514736,Lahore,3.0,4.0,5.0,1.0,2.0,2.0,3.99, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,14658.0,DHA Phase 8 ,Punjab,DHA Defence,Houses,680.5
+828,52115258,Lahore,1.0,3.0,3.0,0.0,1.0,1.0,1.25, For Sale,"Jubilee Town, Lahore, Punjab, ",New Property,1361.0,9184.0,Jubilee Town ,Punjab,Jubilee Town,Houses,453.6666666666667
+830,52076547,Lahore,1.0,2.0,2.0,0.0,1.0,0.0,0.88, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,1089.0,8081.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,544.5
+832,50936606,Lahore,1.0,5.0,5.0,0.0,2.0,1.0,2.0, For Sale,"Jubilee Town, Lahore, Punjab, ",Relatively New,1361.0,14695.0,Jubilee Town ,Punjab,Jubilee Town,Houses,272.2
+833,50936609,Lahore,1.0,5.0,5.0,0.0,2.0,1.0,2.1, For Sale,"Jubilee Town, Lahore, Punjab, ",Relatively New,1361.0,15430.0,Jubilee Town ,Punjab,Jubilee Town,Houses,272.2
+835,51930890,Lahore,2.0,6.0,6.0,1.0,2.0,1.0,3.9, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,14328.0,LDA Avenue,Punjab,LDA Avenue,Houses,453.6666666666667
+836,51930891,Lahore,2.0,6.0,6.0,1.0,2.0,1.0,4.0, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,14695.0,LDA Avenue,Punjab,LDA Avenue,Houses,453.6666666666667
+837,52068842,Lahore,2.0,6.0,7.0,1.0,2.0,1.0,3.75, For Sale,"Jubilee Town, Lahore, Punjab, ",Relatively New,2722.0,13777.0,Jubilee Town,Punjab,Jubilee Town,Houses,453.6666666666667
+841,52025426,Lahore,1.0,3.0,4.0,1.0,2.0,2.0,2.6, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,1361.0,19104.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+842,52032011,Lahore,4.0,6.0,8.0,2.0,3.0,3.0,15.0, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,27548.0,DHA Phase 6,Punjab,DHA Defence,Houses,907.5
+844,51493861,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,8.39, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,15409.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+846,52007184,Lahore,1.0,3.0,3.0,0.0,1.0,1.0,3.25, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Under Construction,2722.0,11940.0,Central Park Housing Scheme,Punjab,Central Park Housing Scheme,Houses,907.3333333333334
+851,50435113,Lahore,4.0,6.0,7.0,1.0,3.0,1.0,5.9, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,5445.0,10836.0,LDA Avenue,Punjab,LDA Avenue,Houses,907.5
+852,50438309,Lahore,2.0,6.0,7.0,1.0,2.0,1.0,2.75, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,10103.0,LDA Avenue,Punjab,LDA Avenue,Houses,453.6666666666667
+853,50756601,Lahore,2.0,6.0,7.0,1.0,2.0,1.0,3.55, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,13042.0,LDA Avenue,Punjab,LDA Avenue,Houses,453.6666666666667
+854,50761072,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,4.2, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,15430.0,LDA Avenue ,Punjab,LDA Avenue,Houses,544.4
+855,50793271,Lahore,2.0,5.0,5.0,1.0,2.0,1.0,3.2, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,11756.0,LDA Avenue ,Punjab,LDA Avenue,Houses,544.4
+857,50793503,Lahore,2.0,5.0,5.0,1.0,2.0,1.0,3.4, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,12491.0,LDA Avenue ,Punjab,LDA Avenue,Houses,544.4
+858,52089465,Lahore,1.0,3.0,4.0,0.0,2.0,2.0,3.0, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,1361.0,22043.0,DHA 9 Town ,Punjab,DHA Defence,Houses,453.6666666666667
+859,51999598,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,3.05, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Relatively New,2722.0,11205.0,Central Park Housing Scheme,Punjab,Central Park Housing Scheme,Houses,544.4
+862,52027107,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,4.0, For Sale,"Jubilee Town, Lahore, Punjab, ",Undefined,2722.0,14695.0,Jubilee Town ,Punjab,Jubilee Town,Houses,544.4
+864,52027108,Lahore,2.0,6.0,6.0,1.0,2.0,1.0,3.5, For Sale,"Jubilee Town, Lahore, Punjab, ",Relatively New,2722.0,12858.0,Jubilee Town ,Punjab,Jubilee Town,Houses,453.6666666666667
+865,51981179,Lahore,1.0,3.0,4.0,2.0,2.0,1.0,0.85, For Sale,"Ferozepur Road, Lahore, Punjab, ",Relatively New,817.0,10404.0,Awan Market,Punjab,Ferozepur Road,Houses,272.3333333333333
+866,51821727,Lahore,2.0,4.0,5.0,0.0,0.0,0.0,3.85, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,14144.0,Air Avenue ,Punjab,DHA Defence,Houses,680.5
+867,51524124,Lahore,1.0,3.0,4.0,2.0,2.0,1.0,1.15, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,817.0,14076.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,272.3333333333333
+871,50199073,Lahore,2.0,6.0,7.0,1.0,3.0,1.0,3.8, For Sale,"LDA Avenue, Lahore, Punjab, ",Relatively New,2722.0,13960.0,LDA Avenue,Punjab,LDA Avenue,Houses,453.6666666666667
+872,50213992,Lahore,1.0,6.0,6.0,1.0,3.0,1.0,2.9, For Sale,"Defence Road, Lahore, Punjab, ",Relatively New,1634.0,17748.0,Dream Gardens,Punjab,Defence Road,Houses,272.3333333333333
+873,50302307,Lahore,2.0,6.0,7.0,1.0,2.0,1.0,4.3, For Sale,"Izmir Town, Lahore, Punjab, ",Relatively New,2722.0,15797.0,Izmir Town,Punjab,Izmir Town,Houses,453.6666666666667
+874,50302387,Lahore,4.0,6.0,7.0,1.0,2.0,1.0,6.9, For Sale,"Izmir Town, Lahore, Punjab, ",Relatively New,5445.0,12672.0,Izmir Town,Punjab,Izmir Town,Houses,907.5
+876,51996579,Lahore,4.0,5.0,5.0,2.0,2.0,1.0,8.9, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,16345.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+877,52093326,Lahore,4.0,5.0,6.0,2.0,3.0,3.0,8.85, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,16253.0,DHA Phase 5,Punjab,DHA Defence,Houses,1089.0
+878,52090873,Lahore,4.0,5.0,6.0,2.0,3.0,0.0,7.3, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13407.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+880,52017511,Lahore,3.0,6.0,6.0,0.0,2.0,0.0,5.0, For Sale,"Raiwind Road, Lahore, Punjab, ",Under Construction,2722.0,18369.0,Lake City ,Punjab,Raiwind Road,Houses,453.6666666666667
+883,52112566,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,0.8, For Sale,"Al Haram Garden, Lahore, Punjab, ",Under Construction,817.0,9792.0,Al Ahmad Haram Garden,Punjab,Al Haram Garden,Houses,272.3333333333333
+884,52116543,Lahore,1.0,1.0,1.0,0.0,1.0,1.0,0.65, For Sale,"Gulberg, Lahore, Punjab, ",New Property,544.0,11949.0,CBD Punjab (PCBDDA),Punjab,Gulberg,Flats,544.0
+885,51871965,Lahore,1.0,3.0,4.0,2.0,2.0,1.0,1.02, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,817.0,12485.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,272.3333333333333
+888,51892776,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,7.89, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14490.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1089.0
+889,51525048,Lahore,1.0,5.0,4.0,2.0,2.0,2.0,2.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,16532.0,DHA 9 Town,Punjab,DHA Defence,Houses,272.2
+891,52013057,Lahore,4.0,5.0,6.0,2.0,3.0,1.0,7.4, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13590.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+893,52112551,Lahore,1.0,3.0,3.0,1.0,2.0,2.0,1.25, For Sale,"Raiwind Road, Lahore, Punjab, ",New Property,817.0,15300.0,Al Ahmad,Punjab,Raiwind Road,Houses,272.3333333333333
+894,52076863,Lahore,1.0,3.0,4.0,1.0,1.0,1.0,2.0, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,1361.0,14695.0,Paragon City,Punjab,Paragon City,Houses,453.6666666666667
+895,52081737,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,1.9, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,1361.0,13960.0,Paragon City,Punjab,Paragon City,Houses,453.6666666666667
+896,52098354,Lahore,1.0,5.0,6.0,1.0,2.0,1.0,1.65, For Sale,"GT Road, Lahore, Punjab, ",Under Construction,1361.0,12123.0,Al Ahmad,Punjab,GT Road,Houses,272.2
+897,52097955,Lahore,2.0,6.0,7.0,0.0,2.0,0.0,6.25, For Sale,"Punjab Coop Housing Society, Lahore, Punjab, ",Undefined,5445.0,11478.0,Punjab Coop Housing ,Punjab,Punjab Coop Housing Society,Houses,907.5
+898,52115454,Lahore,4.0,7.0,8.0,1.0,2.0,1.0,6.0, For Sale,"Punjab Govt Employees Society, Lahore, Punjab, ",Moderately Old,4356.0,13774.0,PGECHS Phase 2,Punjab,Punjab Govt Employees Society,Houses,622.2857142857143
+901,52111509,Lahore,1.0,3.0,4.0,1.0,1.0,1.0,1.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,14328.0,DHA 9 Town ,Punjab,DHA Defence,Houses,453.6666666666667
+903,52112643,Lahore,4.0,5.0,6.0,2.0,2.0,0.0,6.35, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11662.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+905,52103148,Lahore,2.0,4.0,4.0,1.0,2.0,1.0,7.5, For Sale,"DHA Defence, Lahore, Punjab, ",Undefined,2722.0,27553.0,DHA Phase 6,Punjab,DHA Defence,Houses,680.5
+906,51270449,Lahore,2.0,3.0,4.0,11.0,2.0,1.0,2.3, For Sale,"DHA 11 Rahbar, Lahore, Punjab, ",Relatively New,1361.0,16899.0,DHA 11 Rahbar Phase 2 ,Punjab,DHA 11 Rahbar,Houses,453.6666666666667
+914,51869633,Lahore,4.0,6.0,7.0,2.0,2.0,2.0,9.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,16529.0,DHA Phase 5,Punjab,DHA Defence,Houses,907.5
+915,51869722,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,5.7, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,10468.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+916,51090036,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,7.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14601.0,DHA Phase 5 ,Punjab,DHA Defence,Houses,1089.0
+917,51666094,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,6.45, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11846.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+918,52031327,Lahore,3.0,4.0,4.0,0.0,1.0,1.0,4.1, For Sale,"Askari, Lahore, Punjab, ",New Property,2722.0,15062.0,Askari 11 ,Punjab,Askari,Houses,680.5
+919,51880552,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.98, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,12819.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+923,51997397,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,1.85, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,13593.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+924,52111728,Lahore,2.0,4.0,5.0,1.0,0.0,1.0,4.5, For Sale,"Paragon City, Lahore, Punjab, ",Undefined,2722.0,16532.0,Paragon City ,Punjab,Paragon City,Houses,680.5
+925,51995982,Lahore,2.0,5.0,5.0,2.0,2.0,1.0,7.05, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,12948.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+928,52077036,Lahore,4.0,5.0,6.0,2.0,3.0,1.0,6.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11938.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+930,52088289,Lahore,4.0,6.0,7.0,2.0,3.0,1.0,12.75, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,11708.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1815.0
+932,51931420,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,2.3, For Sale,"DHA 11 Rahbar, Lahore, Punjab, ",Relatively New,1361.0,16899.0,DHA 11 Rahbar Phase 2 ,Punjab,DHA 11 Rahbar,Houses,453.6666666666667
+933,52116729,Lahore,1.0,3.0,3.0,0.0,1.0,1.0,8.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,15611.0,DHA Phase 6,Punjab,DHA Defence,Houses,1815.0
+935,51913191,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,2.4, For Sale,"DHA 11 Rahbar, Lahore, Punjab, ",Relatively New,1361.0,17634.0,DHA 11 Rahbar Phase 2 ,Punjab,DHA 11 Rahbar,Houses,453.6666666666667
+936,52017155,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,6.25, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,11478.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+937,51824317,Lahore,2.0,4.0,4.0,0.0,1.0,1.0,3.1, For Sale,"Askari, Lahore, Punjab, ",New Property,3267.0,9489.0,Askari 11 ,Punjab,Askari,Houses,816.75
+939,52116811,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.5, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,11938.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+942,52116801,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,7.8, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14325.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+943,51942862,Lahore,1.0,3.0,4.0,0.0,2.0,0.0,1.55, For Sale,"DHA 11 Rahbar, Lahore, Punjab, ",Relatively New,1361.0,11389.0,DHA 11 Rahbar Phase 2 Extension ,Punjab,DHA 11 Rahbar,Houses,453.6666666666667
+944,52116774,Lahore,1.0,3.0,4.0,1.0,1.0,1.0,1.85, For Sale,"DHA Defence, Lahore, Punjab, ",Old Property,1361.0,13593.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+945,51748976,Lahore,5.0,5.0,6.0,2.0,2.0,0.0,7.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13315.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+946,51748783,Lahore,5.0,5.0,6.0,2.0,2.0,1.0,6.35, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11662.0,DHA Phase 3,Punjab,DHA Defence,Houses,1089.0
+947,52001371,Lahore,4.0,5.0,6.0,2.0,3.0,2.0,7.5, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,13774.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+952,52120961,Lahore,3.0,6.0,7.0,1.0,2.0,1.0,4.4, For Sale,"Punjab Govt Employees Society, Lahore, Punjab, ",Under Construction,2722.0,16165.0,PGECHS Phase 2,Punjab,Punjab Govt Employees Society,Houses,453.6666666666667
+955,52067223,Lahore,4.0,5.0,6.0,2.0,3.0,1.0,6.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11938.0,DHA Phase 3,Punjab,DHA Defence,Houses,1089.0
+959,52011601,Lahore,1.0,4.0,4.0,2.0,2.0,1.0,2.1, For Sale,"Park View City, Lahore, Punjab, ",Undefined,1361.0,15430.0,Park View City ,Punjab,Park View City,Houses,340.25
+960,52012992,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,8.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14692.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+962,52107805,Lahore,2.0,3.0,7.0,1.0,2.0,1.0,1.75, For Sale,"Bahria Town, Lahore, Punjab, ",Under Construction,1361.0,12858.0,Bahria Town ,Punjab,Bahria Town,Houses,453.6666666666667
+963,52134012,Lahore,1.0,5.0,8.0,1.0,3.0,1.0,3.25, For Sale,"Johar Town, Lahore, Punjab, ",Under Construction,1361.0,23880.0,Johar Town Phase 2,Punjab,Johar Town,Houses,272.2
+967,52028992,Lahore,4.0,6.0,7.0,2.0,0.0,1.0,9.79, For Sale,"Wapda Town, Lahore, Punjab, ",New Property,10890.0,8990.0,Wapda Town,Punjab,Wapda Town,Houses,1815.0
+969,52065490,Lahore,2.0,3.0,3.0,1.0,1.0,1.0,3.6, For Sale,"Askari, Lahore, Punjab, ",Under Construction,2722.0,13226.0,Askari 10 ,Punjab,Askari,Houses,907.3333333333334
+970,51003057,Lahore,1.0,3.0,3.0,0.0,2.0,1.0,2.1, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,1361.0,15430.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,453.6666666666667
+971,52065583,Lahore,2.0,4.0,4.0,1.0,1.0,2.0,5.75, For Sale,"Askari, Lahore, Punjab, ",New Property,2722.0,21124.0,Askari 10 ,Punjab,Askari,Houses,680.5
+972,51858306,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,8.11, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14894.0,DHA Phase 5 ,Punjab,DHA Defence,Houses,1089.0
+973,51936827,Lahore,4.0,6.0,7.0,2.0,2.0,2.0,17.99, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,16520.0,DHA Phase 6,Punjab,DHA Defence,Houses,1815.0
+974,52084690,Lahore,1.0,3.0,4.0,0.0,2.0,0.0,1.92, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,14107.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+977,47097334,Lahore,4.0,7.0,8.0,1.0,3.0,1.0,5.45, For Sale,"Punjab Coop Housing Society, Lahore, Punjab, ",New Property,5445.0,10009.0,Punjab Coop Housing Society,Punjab,Punjab Coop Housing Society,Houses,777.8571428571429
+979,52117386,Lahore,1.0,3.0,4.0,0.0,1.0,1.0,2.25, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,1361.0,16532.0,Paragon City ,Punjab,Paragon City,Houses,453.6666666666667
+980,52091696,Lahore,0.0,0.0,0.0,0.0,0.0,0.0,8.1, For Sale,"Askari, Lahore, Punjab, ",Old Property,4084.0,19833.0,Askari 10 ,Punjab,Askari,Houses,inf
+981,52030453,Lahore,2.0,3.0,3.0,1.0,1.0,1.0,4.4, For Sale,"Askari, Lahore, Punjab, ",New Property,2722.0,16165.0,Askari 10 ,Punjab,Askari,Houses,907.3333333333334
+982,51760459,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,2.25, For Sale,"DHA 11 Rahbar, Lahore, Punjab, ",Relatively New,1361.0,16532.0,DHA 11 Rahbar,Punjab,DHA 11 Rahbar,Houses,453.6666666666667
+983,51508884,Lahore,2.0,5.0,6.0,1.0,2.0,2.0,4.5, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,2722.0,16532.0,DHA Phase 3,Punjab,DHA Defence,Houses,544.4
+988,52132940,Lahore,6.0,6.0,7.0,3.0,3.0,2.0,14.95, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,10890.0,13728.0,DHA Phase 3,Punjab,DHA Defence,Houses,1815.0
+990,52132622,Lahore,1.0,3.0,3.0,0.0,2.0,1.0,1.06, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Under Construction,681.0,15565.0,Al Ahmad Rehman Garden Phase 4,Punjab,Al Rehman Garden,Houses,227.0
+991,50919178,Lahore,2.0,1.0,1.0,1.0,1.0,1.0,3.5, For Sale,"Gulberg, Lahore, Punjab, ",Relatively New,1579.0,22166.0,Oyster Court Luxury Residences,Punjab,Gulberg,Lower,1579.0
+994,51543586,Lahore,3.0,4.0,5.0,2.0,2.0,2.0,5.3, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,5445.0,9734.0,DHA Phase 1,Punjab,DHA Defence,Houses,1361.25
+995,51543689,Lahore,2.0,4.0,5.0,2.0,2.0,2.0,4.0, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,2450.0,16327.0,DHA Phase 3,Punjab,DHA Defence,Houses,612.5
+1002,50148944,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,6.0, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,5445.0,11019.0,Bahria Town ,Punjab,Bahria Town,Houses,1089.0
+1004,52124913,Lahore,1.0,3.0,4.0,0.0,1.0,1.0,1.79, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,13152.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+1005,51546926,Lahore,5.0,5.0,6.0,2.0,2.0,2.0,9.75, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,8712.0,11191.0,DHA Phase 1,Punjab,DHA Defence,Houses,1742.4
+1006,51561983,Lahore,5.0,7.0,8.0,2.0,2.0,2.0,13.5, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,10890.0,12397.0,DHA Phase 1,Punjab,DHA Defence,Houses,1555.7142857142858
+1007,52013108,Lahore,2.0,3.0,4.0,2.0,2.0,2.0,3.3, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,1634.0,20196.0,DHA Phase 4,Punjab,DHA Defence,Houses,544.6666666666666
+1008,52112035,Lahore,6.0,6.0,7.0,2.0,3.0,2.0,44.5, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,11979.0,37148.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1996.5
+1010,50157359,Lahore,3.0,6.0,6.0,1.0,2.0,2.0,8.75, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Moderately Old,5445.0,16070.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,907.5
+1014,52013728,Lahore,2.0,3.0,3.0,1.0,1.0,1.0,3.25, For Sale,"Askari, Lahore, Punjab, ",Relatively New,2722.0,11940.0,Askari 10 ,Punjab,Askari,Houses,907.3333333333334
+1015,52008864,Lahore,1.0,5.0,5.0,1.0,1.0,1.0,9.0, For Sale,"Askari, Lahore, Punjab, ",Relatively New,4628.0,19447.0,Askari 10 ,Punjab,Askari,Houses,925.6
+1016,52016360,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,7.99, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14674.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+1023,52023880,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.5, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,5445.0,11938.0,DHA Phase 3,Punjab,DHA Defence,Houses,1089.0
+1024,52008634,Lahore,1.0,6.0,5.0,1.0,1.0,1.0,4.7, For Sale,"Askari, Lahore, Punjab, ",New Property,2722.0,17267.0,Askari 10 ,Punjab,Askari,Houses,453.6666666666667
+1026,52087919,Lahore,4.0,5.0,6.0,1.0,2.0,1.0,7.2, For Sale,"Valencia Housing Society, Lahore, Punjab, ",Relatively New,5445.0,13223.0,Valencia Housing Society,Punjab,Valencia Housing Society,Houses,1089.0
+1032,49119043,Lahore,2.0,5.0,5.0,1.0,2.0,1.0,1.58, For Sale,"Canal Garden, Lahore, Punjab, ",New Property,1361.0,11609.0,Canal Garden,Punjab,Canal Garden,Houses,272.2
+1033,52046628,Lahore,1.0,4.0,4.0,0.0,2.0,1.0,3.15, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1824.0,17270.0,Park View City ,Punjab,Park View City,Houses,456.0
+1034,50968583,Lahore,6.0,5.0,7.0,3.0,3.0,3.0,15.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,13774.0,DHA Phase 6,Punjab,DHA Defence,Houses,2178.0
+1052,52044263,Lahore,1.0,2.0,2.0,0.0,1.0,0.0,2.0, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,1497.0,13360.0,DHA Phase 8 ,Punjab,DHA Defence,Flats,748.5
+1053,51965317,Lahore,3.0,5.0,6.0,1.0,2.0,1.0,4.2, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,2722.0,15430.0,Bahria Town ,Punjab,Bahria Town,Houses,544.4
+1054,52124673,Lahore,2.0,6.0,6.0,1.0,2.0,2.0,3.29, For Sale,"Jubilee Town, Lahore, Punjab, ",Under Construction,2722.0,12087.0,Jubilee Town,Punjab,Jubilee Town,Houses,453.6666666666667
+1055,52016586,Lahore,2.0,3.0,3.0,1.0,1.0,1.0,3.15, For Sale,"Askari, Lahore, Punjab, ",New Property,2722.0,11572.0,Askari 10 ,Punjab,Askari,Houses,907.3333333333334
+1058,52048182,Lahore,2.0,3.0,4.0,1.0,1.0,0.0,2.75, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,2450.0,11224.0,DHA Phase 8 ,Punjab,DHA Defence,Lower,816.6666666666666
+1059,52098538,Lahore,2.0,0.0,0.0,0.0,0.0,0.0,1.85, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,13593.0,Park View City,Punjab,Park View City,Houses,inf
+1060,52091866,Lahore,2.0,0.0,0.0,0.0,0.0,0.0,2.2, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,16165.0,Park View City,Punjab,Park View City,Houses,inf
+1061,51662202,Lahore,6.0,6.0,7.0,2.0,2.0,2.0,32.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,29385.0,DHA Phase 5 ,Punjab,DHA Defence,Houses,1815.0
+1063,52134033,Lahore,1.0,0.0,0.0,0.0,0.0,0.0,15.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,27548.0,DHA Phase 7,Punjab,DHA Defence,Houses,inf
+1064,52135268,Lahore,4.0,8.0,10.0,1.0,2.0,1.0,2.8, For Sale,"Lahore Canal Bank Cooperative Housing Society, Lahore, Punjab, ",Relatively New,1634.0,17136.0,Lahore Canal Bank Cooperative Housing Society,Punjab,Lahore Canal Bank Cooperative Housing Society,Houses,204.25
+1065,52113356,Lahore,2.0,4.0,5.0,0.0,2.0,1.0,4.3, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,2722.0,15797.0,Paragon City ,Punjab,Paragon City,Houses,680.5
+1068,51436837,Lahore,4.0,5.0,6.0,2.0,3.0,1.0,7.43, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13646.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+1070,52108134,Lahore,2.0,0.0,0.0,0.0,0.0,0.0,2.1, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,15430.0,Park View City,Punjab,Park View City,Houses,inf
+1071,50595072,Lahore,3.0,7.0,5.0,1.0,2.0,0.0,4.5, For Sale,"Township, Lahore, Punjab, ",New Property,1361.0,33064.0,Township ,Punjab,Township,Houses,194.42857142857142
+1072,50595119,Lahore,4.0,7.0,5.0,1.0,0.0,0.0,2.5, For Sale,"Township, Lahore, Punjab, ",New Property,1361.0,18369.0,Township ,Punjab,Township,Houses,194.42857142857142
+1073,51955413,Lahore,3.0,4.0,4.0,1.0,2.0,2.0,6.95, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,25533.0,DHA Phase 5 ,Punjab,DHA Defence,Houses,680.5
+1075,52036365,Lahore,1.0,3.0,4.0,0.0,2.0,0.0,1.9, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Relatively New,1361.0,13960.0,Central Park Housing Scheme,Punjab,Central Park Housing Scheme,Houses,453.6666666666667
+1076,52024905,Lahore,1.0,5.0,5.0,1.0,2.0,4.0,2.3, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Under Construction,1634.0,14076.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,326.8
+1078,52133774,Lahore,4.0,5.0,5.0,1.0,2.0,1.0,4.8, For Sale,"DHA Defence, Lahore, Punjab, ",Old Property,5445.0,8815.0,DHA Phase 3,Punjab,DHA Defence,Houses,1089.0
+1079,52133727,Lahore,4.0,5.0,5.0,1.0,2.0,1.0,4.75, For Sale,"DHA Defence, Lahore, Punjab, ",Old Property,5445.0,8724.0,DHA Phase 4,Punjab,DHA Defence,Houses,1089.0
+1080,52112925,Lahore,1.0,4.0,3.0,1.0,2.0,1.0,2.75, For Sale,"Allama Iqbal Town, Lahore, Punjab, ",Old Property,1361.0,20206.0,Al Ahmadlama Iqbal Town,Punjab,Allama Iqbal Town,Houses,340.25
+1081,52031422,Lahore,2.0,4.0,4.0,2.0,2.0,1.0,2.95, For Sale,"Bahria Town, Lahore, Punjab, ",Moderately Old,2722.0,10838.0,Bahria Town ,Punjab,Bahria Town,Houses,680.5
+1082,52119145,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.0, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,11019.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+1086,49763489,Lahore,1.0,4.0,5.0,1.0,2.0,1.0,5.75, For Sale,"Bankers Avenue Cooperative Housing Society, Lahore, Punjab, ",Undefined,5445.0,10560.0,Bankers Avenue Cooperative Housing Society,Punjab,Bankers Avenue Cooperative Housing Society,Houses,1361.25
+1087,51722311,Lahore,2.0,5.0,6.0,1.0,1.0,1.0,8.45, For Sale,"Askari, Lahore, Punjab, ",Moderately Old,5445.0,15519.0,Askari 10 ,Punjab,Askari,Houses,1089.0
+1088,50809680,Lahore,1.0,3.0,3.0,1.0,1.0,1.0,4.3, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,3539.0,12150.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,1179.6666666666667
+1089,52100745,Lahore,1.0,4.0,4.0,1.0,1.0,1.0,0.65, For Sale,"Gulberg, Lahore, Punjab, ",Relatively New,544.0,11949.0,Gulberg,Punjab,Gulberg,Houses,136.0
+1093,50989105,Lahore,4.0,6.0,7.0,2.0,3.0,1.0,7.85, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14417.0,DHA Phase 6,Punjab,DHA Defence,Houses,907.5
+1097,52132837,Lahore,4.0,3.0,4.0,1.0,1.0,1.0,2.15, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,1361.0,15797.0,Paragon City ,Punjab,Paragon City,Houses,453.6666666666667
+1104,52134944,Lahore,4.0,2.0,2.0,1.0,1.0,1.0,0.5, For Sale,"Bahria Orchard, Lahore, Punjab, ",Under Construction,1361.0,3674.0,Bahria Orchard,Punjab,Bahria Orchard,Flats,680.5
+1106,52113395,Lahore,2.0,4.0,5.0,0.0,2.0,1.0,3.95, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,2722.0,14511.0,Paragon City ,Punjab,Paragon City,Houses,680.5
+1107,52113420,Lahore,2.0,4.0,5.0,0.0,2.0,1.0,5.2, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,2722.0,19104.0,Paragon City ,Punjab,Paragon City,Houses,680.5
+1108,52092808,Lahore,3.0,5.0,6.0,2.0,2.0,2.0,6.35, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11662.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+1109,52098356,Lahore,3.0,5.0,6.0,2.0,2.0,2.0,7.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,13774.0,DHA Phase 3 ,Punjab,DHA Defence,Houses,1089.0
+1114,52096119,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,2.7, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Relatively New,2722.0,9919.0,Central Park ,Punjab,Central Park Housing Scheme,Houses,544.4
+1119,52093079,Lahore,3.0,5.0,6.0,2.0,2.0,2.0,5.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,2722.0,19287.0,DHA Phase 5 ,Punjab,DHA Defence,Houses,544.4
+1121,52127840,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,13.0, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,5445.0,23875.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+1125,52066168,Lahore,2.0,4.0,5.0,2.0,2.0,2.0,5.5, For Sale,"DHA Defence, Lahore, Punjab, ",Under Construction,2722.0,20206.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,680.5
+1126,52088665,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,3.25, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,23880.0,DHA 9 Town ,Punjab,DHA Defence,Houses,453.6666666666667
+1127,52116326,Lahore,2.0,4.0,3.0,1.0,2.0,1.0,1.9, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,13960.0,Park View City,Punjab,Park View City,Houses,340.25
+1128,50917380,Lahore,4.0,5.0,6.0,1.0,2.0,1.0,6.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11938.0,DHA Phase 3 ,Punjab,DHA Defence,Houses,1089.0
+1129,52127853,Lahore,2.0,6.0,6.0,1.0,2.0,2.0,4.9, For Sale,"Punjab Small Industries Colony, Lahore, Punjab, ",Relatively New,3812.0,12854.0,Punjab Small Industries Colony ,Punjab,Punjab Small Industries Colony,Houses,635.3333333333334
+1132,52065630,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,4.25, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,2722.0,15614.0,Bahria Town ,Punjab,Bahria Town,Houses,544.4
+1134,49438144,Lahore,3.0,5.0,6.0,1.0,2.0,1.0,3.3, For Sale,"Bahria Town, Lahore, Punjab, ",Relatively New,2722.0,12123.0,Bahria Town ,Punjab,Bahria Town,Houses,544.4
+1136,51138818,Lahore,1.0,3.0,3.0,1.0,1.0,1.0,4.9, For Sale,"Sabzazar Scheme, Lahore, Punjab, ",Relatively New,2722.0,18001.0,Sabzazar Scheme,Punjab,Sabzazar Scheme,Houses,907.3333333333334
+1138,51796143,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,7.5, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,5445.0,13774.0,DHA Phase 1 ,Punjab,DHA Defence,Houses,1089.0
+1139,52084195,Lahore,2.0,3.0,4.0,0.0,2.0,0.0,2.3, For Sale,"Paragon City, Lahore, Punjab, ",New Property,1361.0,16899.0,Paragon City ,Punjab,Paragon City,Houses,453.6666666666667
+1146,52123606,Lahore,2.0,3.0,4.0,2.0,2.0,0.0,1.7, For Sale,"Central Park Housing Scheme, Lahore, Punjab, ",Undefined,1089.0,15611.0,Central Park ,Punjab,Central Park Housing Scheme,Houses,363.0
+1151,52010884,Lahore,4.0,6.0,8.0,1.0,2.0,1.0,20.0, For Sale,"Cantt, Lahore, Punjab, ",Moderately Old,10890.0,18365.0,Sarfaraz Rafiqui Road,Punjab,Cantt,Houses,1815.0
+1153,51872930,Lahore,1.0,5.0,5.0,0.0,1.0,1.0,3.6, For Sale,"Public Health Society, Lahore, Punjab, ",Relatively New,2995.0,12020.0,Public Health Society ,Punjab,Public Health Society,Houses,599.0
+1154,52075032,Lahore,1.0,4.0,5.0,2.0,2.0,1.0,2.1, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,15430.0,Park View City ,Punjab,Park View City,Houses,340.25
+1155,52124188,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,2.99, For Sale,"Bahria Orchard, Lahore, Punjab, ",Relatively New,2722.0,10985.0,Bahria Orchard Phase 1 ,Punjab,Bahria Orchard,Houses,544.4
+1156,51600917,Lahore,2.0,4.0,5.0,1.0,2.0,1.0,1.7, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,12491.0,Park View City ,Punjab,Park View City,Houses,340.25
+1161,51903702,Lahore,2.0,0.0,0.0,1.0,1.0,1.0,4.5, For Sale,"Canal View, Lahore, Punjab, ",Undefined,3539.0,12715.0,Canal View,Punjab,Canal View,Houses,inf
+1163,52028681,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,1.45, For Sale,"Formanites Housing Scheme, Lahore, Punjab, ",Relatively New,1361.0,10654.0,Formanites Housing Scheme,Punjab,Formanites Housing Scheme,Houses,453.6666666666667
+1164,52007183,Lahore,6.0,8.0,9.0,2.0,3.0,2.0,18.0, For Sale,"DHA Defence, Lahore, Punjab, ",New Property,10890.0,16529.0,DHA Phase 1,Punjab,DHA Defence,Houses,1361.25
+1166,51905169,Lahore,1.0,3.0,5.0,1.0,2.0,1.0,1.9, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,13960.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+1168,50314512,Lahore,1.0,4.0,4.0,1.0,2.0,1.0,2.89, For Sale,"Gulberg, Lahore, Punjab, ",Under Construction,1198.0,24124.0,The Opus Luxury Residence,Punjab,Gulberg,Flats,299.5
+1172,52124233,Lahore,6.0,6.0,5.0,1.0,2.0,0.0,36.0, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,10890.0,33058.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,1815.0
+1175,52044287,Lahore,1.0,2.0,2.0,1.0,2.0,1.0,0.65, For Sale,"Al Haram Garden, Lahore, Punjab, ",Relatively New,817.0,7956.0,Al Ahmad Haram Garden,Punjab,Al Haram Garden,Houses,408.5
+1178,51873367,Lahore,4.0,5.0,6.0,2.0,2.0,2.0,6.89, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,12654.0,DHA Phase 7 ,Punjab,DHA Defence,Houses,1089.0
+1179,52041763,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,2.15, For Sale,"DHA Defence, Lahore, Punjab, ",Undefined,1361.0,15797.0,DHA 9 Town,Punjab,DHA Defence,Houses,453.6666666666667
+1184,52081817,Lahore,4.0,5.0,6.0,0.0,0.0,0.0,6.35, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,11662.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+1187,52077521,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,2.2, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,16165.0,Park View City ,Punjab,Park View City,Houses,453.6666666666667
+1188,52077270,Lahore,1.0,4.0,4.0,1.0,2.0,0.0,2.1, For Sale,"Park View City, Lahore, Punjab, ",Under Construction,1361.0,15430.0,Park View City ,Punjab,Park View City,Houses,340.25
+1192,49723075,Lahore,4.0,3.0,4.0,1.0,2.0,1.0,2.6, For Sale,"Formanites Housing Scheme, Lahore, Punjab, ",Relatively New,2722.0,9552.0,Formanites Housing Scheme,Punjab,Formanites Housing Scheme,Houses,907.3333333333334
+1196,51991021,Lahore,1.0,3.0,4.0,1.0,2.0,1.0,2.2, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,16165.0,DHA Phase 6,Punjab,DHA Defence,Houses,453.6666666666667
+1197,52065188,Lahore,1.0,3.0,4.0,0.0,2.0,1.0,2.29, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,1361.0,16826.0,DHA 9 Town ,Punjab,DHA Defence,Houses,453.6666666666667
+1202,51483407,Lahore,1.0,4.0,4.0,2.0,2.0,1.0,2.2, For Sale,"Park View City, Lahore, Punjab, ",Relatively New,1361.0,16165.0,Park View City,Punjab,Park View City,Houses,340.25
+1206,52127712,Lahore,2.0,5.0,6.0,1.0,2.0,1.0,3.8, For Sale,"UET Housing Society, Lahore, Punjab, ",Under Construction,2722.0,13960.0,UET Housing Society ,Punjab,UET Housing Society,Houses,544.4
+1211,49186552,Lahore,4.0,5.0,6.0,1.0,2.0,1.0,7.75, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14233.0,DHA Phase 3,Punjab,DHA Defence,Houses,1089.0
+1212,51867260,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,5.45, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,4084.0,13345.0,DHA Phase 6 ,Punjab,DHA Defence,Houses,816.8
+1213,47201834,Lahore,1.0,5.0,5.0,0.0,2.0,0.0,1.85, For Sale,"Jubilee Town, Lahore, Punjab, ",Relatively New,1361.0,13593.0,Jubilee Town ,Punjab,Jubilee Town,Houses,272.2
+1214,46333032,Lahore,1.0,5.0,5.0,1.0,2.0,1.0,1.87, For Sale,"Jubilee Town, Lahore, Punjab, ",Undefined,1361.0,13740.0,Jubilee Town ,Punjab,Jubilee Town,Houses,272.2
+1215,52031046,Lahore,4.0,5.0,6.0,2.0,3.0,1.0,7.86, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14435.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+1219,52123263,Lahore,1.0,4.0,5.0,1.0,1.0,1.0,2.15, For Sale,"GT Road, Lahore, Punjab, ",Under Construction,1361.0,15797.0,Bismillah Housing Scheme,Punjab,GT Road,Houses,340.25
+1221,49145478,Lahore,4.0,5.0,6.0,1.0,2.0,1.0,11.5, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,21120.0,DHA Phase 6,Punjab,DHA Defence,Houses,1089.0
+1223,52129451,Lahore,2.0,5.0,6.0,1.0,3.0,1.0,1.05, For Sale,"Fateh Garh, Lahore, Punjab, ",Under Construction,1089.0,9642.0,Fateh Garh,Punjab,Fateh Garh,Houses,217.8
+1224,52111594,Lahore,2.0,3.0,4.0,1.0,2.0,1.0,0.65, For Sale,"Shah Khawar Town, Lahore, Punjab, ",Relatively New,817.0,7956.0,Shah Khawar Town,Punjab,Shah Khawar Town,Houses,272.3333333333333
+1228,52037176,Lahore,2.0,5.0,6.0,0.0,2.0,2.0,3.4, For Sale,"Formanites Housing Scheme, Lahore, Punjab, ",Relatively New,2722.0,12491.0,Formanites Housing Scheme,Punjab,Formanites Housing Scheme,Houses,544.4
+1230,52126781,Lahore,4.0,5.0,6.0,1.0,2.0,2.0,7.5, For Sale,"Wapda Town, Lahore, Punjab, ",New Property,5445.0,13774.0,Wapda Town,Punjab,Wapda Town,Houses,1089.0
+1231,51836660,Lahore,1.0,3.0,3.0,1.0,2.0,1.0,2.55, For Sale,"Paragon City, Lahore, Punjab, ",Relatively New,1361.0,18736.0,Paragon City ,Punjab,Paragon City,Houses,453.6666666666667
+1232,52070614,Lahore,1.0,3.0,3.0,1.0,2.0,1.0,2.75, For Sale,"Paragon City, Lahore, Punjab, ",Under Construction,1361.0,20206.0,Paragon City ,Punjab,Paragon City,Houses,453.6666666666667
+1233,47831265,Lahore,4.0,5.0,6.0,2.0,2.0,1.0,7.8, For Sale,"DHA Defence, Lahore, Punjab, ",Relatively New,5445.0,14325.0,DHA Phase 7,Punjab,DHA Defence,Houses,1089.0
+1234,51879461,Lahore,1.0,5.0,6.0,1.0,2.0,1.0,2.3, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,1634.0,14076.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,326.8
+1235,51928566,Lahore,1.0,5.0,6.0,1.0,2.0,1.0,2.28, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,1634.0,13953.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,326.8
+1236,52076895,Lahore,1.0,5.0,6.0,1.0,2.0,0.0,1.88, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,1361.0,13813.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,272.2
+1237,52077022,Lahore,1.0,5.0,6.0,1.0,2.0,0.0,2.25, For Sale,"Al Rehman Garden, Lahore, Punjab, ",Relatively New,1634.0,13770.0,Al Ahmad Rehman Garden Phase 2,Punjab,Al Rehman Garden,Houses,326.8
+1243,52131585,Karachi,1.0,3.0,4.0,0.0,1.0,1.0,3.5, For Sale,"DHA Defence, Karachi, Sindh, ",New Property,1746.0,20046.0,Bukhari Commercial Area,Sindh,DHA Defence,Flats,582.0
+1246,51879719,Karachi,2.0,5.0,7.0,1.0,1.0,1.0,10.0, For Sale,"Navy Housing Scheme Karsaz, Karachi, Sindh, ",New Property,3501.0,28563.0,Navy Housing Scheme Karsaz,Sindh,Navy Housing Scheme Karsaz,Flats,700.2
+1247,52030914,Karachi,1.0,3.0,4.0,1.0,1.0,1.0,3.3, For Sale," Island, Karachi, Sindh, ",New Property,1899.0,17378.0,Bath Island,Sindh, Island,Flats,633.0
+1250,52115983,Karachi,1.0,2.0,2.0,1.0,1.0,1.0,1.15, For Sale,"Clifton, Karachi, Sindh, ",New Property,999.0,11512.0,Clifton ,Sindh,Clifton,Flats,499.5
+1251,52004353,Karachi,2.0,5.0,6.0,1.0,2.0,1.0,10.5, For Sale,"DHA Defence, Karachi, Sindh, ",Moderately Old,4500.0,23333.0,DHA Phase 5,Sindh,DHA Defence,Houses,900.0
+1254,51977406,Karachi,1.0,3.0,4.0,1.0,1.0,1.0,3.6, For Sale,"Jamshed Town, Karachi, Sindh, ",New Property,1503.0,23952.0,PECHS Block 2,Sindh,Jamshed Town,Flats,501.0
+1259,52041012,Karachi,2.0,3.0,3.0,1.0,1.0,1.0,0.75, For Sale,"Malir, Karachi, Sindh, ",Relatively New,684.0,10965.0,Falaknaz Presidency,Sindh,Malir,Flats,228.0
+1261,51379349,Karachi,2.0,4.0,5.0,1.0,1.0,1.0,7.8, For Sale,"Malir, Karachi, Sindh, ",Relatively New,3150.0,24762.0,Falcon Complex New Malir,Sindh,Malir,Houses,787.5
+1263,52020553,Karachi,2.0,4.0,4.0,1.0,2.0,1.0,1.85, For Sale,"Gadap Town, Karachi, Sindh, ",Relatively New,1080.0,17130.0,Gulshan,Sindh,Gadap Town,Houses,270.0
+1265,52093451,Karachi,1.0,4.0,4.0,0.0,1.0,0.0,5.5, For Sale,"Jamshed Town, Karachi, Sindh, ",Relatively New,2403.0,22888.0,PECHS Block 2,Sindh,Jamshed Town,Upper,600.75
+1266,52095758,Karachi,2.0,2.0,2.0,1.0,1.0,1.0,0.93, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,1125.0,8267.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,562.5
+1267,52041718,Karachi,3.0,3.0,4.0,3.0,2.0,1.0,1.15, For Sale,Gulistan,Old Property,1179.0,9754.0,Gulistan,Sindh,Gulistan,Flats,393.0
+1268,50729956,Karachi,3.0,6.0,4.0,0.0,2.0,0.0,15.0, For Sale,"Jamshed Town, Karachi, Sindh, ",Old Property,5400.0,27778.0,PECHS Block 2,Sindh,Jamshed Town,Houses,900.0
+1269,50792559,Karachi,1.0,4.0,5.0,2.0,2.0,0.0,7.0, For Sale,"Jamshed Town, Karachi, Sindh, ",Moderately Old,1800.0,38889.0,PECHS Block 2,Sindh,Jamshed Town,Houses,450.0
+1272,51204558,Karachi,2.0,4.0,6.0,1.0,1.0,1.0,5.5, For Sale,"Clifton, Karachi, Sindh, ",Relatively New,2799.0,19650.0,Clifton ,Sindh,Clifton,Flats,699.75
+1274,52093454,Karachi,2.0,6.0,7.0,1.0,2.0,1.0,3.25, For Sale,"Gadap Town, Karachi, Sindh, ",Relatively New,1800.0,18056.0,Gulshan,Sindh,Gadap Town,Houses,300.0
+1275,52061911,Karachi,1.0,3.0,3.0,1.0,2.0,0.0,7.5, For Sale,"Gadap Town, Karachi, Sindh, ",Relatively New,5805.0,12920.0,Gulshan,Sindh,Gadap Town,Houses,1935.0
+1277,51962338,Karachi,4.0,5.0,5.0,1.0,1.0,1.0,8.9, For Sale,"Cantt, Karachi, Sindh, ",New Property,4500.0,19778.0,Askari 5 ,Sindh,Cantt,Houses,900.0
+1281,50572152,Karachi,3.0,6.0,6.0,0.0,0.0,0.0,8.0, For Sale,Old Ravians Co,Relatively New,3600.0,22222.0,Old Ravians Co,Sindh,Old Ravians Co,Houses,600.0
+1287,51163939,Karachi,1.0,3.0,3.0,1.0,1.0,1.0,4.05, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,2700.0,15000.0,Askari 5 ,Sindh,Cantt,Flats,900.0
+1292,52068082,Karachi,2.0,5.0,5.0,1.0,1.0,1.0,7.83, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,3375.0,23200.0,Askari 5 ,Sindh,Cantt,Houses,675.0
+1293,52134301,Karachi,1.0,2.0,3.0,1.0,1.0,1.0,0.9, For Sale,"Scheme 33, Karachi, Sindh, ",Under Construction,999.0,9009.0,Scheme 33,Sindh,Scheme 33,Flats,499.5
+1294,52134275,Karachi,1.0,3.0,3.0,1.0,1.0,1.0,0.9, For Sale,"Scheme 33, Karachi, Sindh, ",Under Construction,999.0,9009.0,Sector 25,Sindh,Scheme 33,Flats,333.0
+1296,52062974,Karachi,1.0,2.0,2.0,0.0,1.0,0.0,2.0, For Sale,"North Karachi, Karachi, Sindh, ",Relatively New,1080.0,18519.0,North Karachi ,Sindh,North Karachi,Houses,540.0
+1297,52057775,Karachi,2.0,5.0,6.0,1.0,2.0,1.0,3.5, For Sale,"Naya Nazimabad, Karachi, Sindh, ",Relatively New,1440.0,24306.0,Naya Nazimabad ,Sindh,Naya Nazimabad,Houses,288.0
+1299,51894777,Karachi,2.0,6.0,7.0,1.0,1.0,1.0,2.8, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,2448.0,11438.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,408.0
+1301,48689613,Karachi,1.0,2.0,3.0,1.0,1.0,1.0,3.1, For Sale,"Clifton, Karachi, Sindh, ",Relatively New,1251.0,24780.0,Clifton ,Sindh,Clifton,Flats,625.5
+1304,51877668,Karachi,1.0,2.0,2.0,0.0,1.0,2.0,1.33, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Old Property,1368.0,9722.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,684.0
+1305,45138560,Karachi,2.0,5.0,5.0,1.0,2.0,1.0,6.0, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,3375.0,17778.0,Askari 6,Sindh,Cantt,Houses,675.0
+1306,44838384,Karachi,2.0,5.0,1.0,1.0,1.0,1.0,6.2, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,3375.0,18370.0,Askari 6,Sindh,Cantt,Houses,675.0
+1307,52093386,Karachi,1.0,4.0,4.0,1.0,1.0,1.0,4.9, For Sale,"Jamshed Town, Karachi, Sindh, ",Relatively New,2700.0,18148.0,PECHS Block 2,Sindh,Jamshed Town,Upper,675.0
+1309,52101693,Karachi,1.0,3.0,3.0,0.0,1.0,1.0,2.2, For Sale,"DHA Defence, Karachi, Sindh, ",New Property,1800.0,12222.0,DHA Phase 5,Sindh,DHA Defence,Flats,600.0
+1310,51805050,Karachi,3.0,7.0,7.0,0.0,1.0,1.0,16.5, For Sale,"DHA Defence, Karachi, Sindh, ",Undefined,4500.0,36667.0,DHA Phase 8,Sindh,DHA Defence,Houses,642.8571428571429
+1312,51951989,Karachi,1.0,3.0,3.0,2.0,1.0,2.0,8.0, For Sale," Island, Karachi, Sindh, ",Relatively New,2304.0,34722.0,Bath Island,Sindh, Island,Flats,768.0
+1313,51877670,Karachi,3.0,4.0,4.0,1.0,1.0,1.0,1.78, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",New Property,3150.0,5651.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,787.5
+1316,52034857,Karachi,2.0,5.0,6.0,1.0,1.0,1.0,5.5, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,4500.0,12222.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,900.0
+1317,52011323,Karachi,2.0,5.0,6.0,0.0,0.0,0.0,8.25, For Sale,Gulshan,New Property,3600.0,22917.0,Gulshan,Sindh,Gulshan,Houses,720.0
+1318,51986548,Karachi,1.0,3.0,3.0,0.0,1.0,0.0,3.82, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,2700.0,14148.0,Askari 5 ,Sindh,Cantt,Flats,900.0
+1319,52011360,Karachi,4.0,5.0,6.0,2.0,2.0,2.0,1.45, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,1098.0,13206.0,Malir Cantonment,Sindh,Cantt,Flats,219.6
+1321,49942061,Karachi,1.0,3.0,3.0,0.0,1.0,1.0,1.45, For Sale,Gulistan,New Property,1449.0,10007.0,Gulistan,Sindh,Gulistan,Flats,483.0
+1322,48799899,Karachi,1.0,6.0,8.0,1.0,2.0,2.0,7.5, For Sale,Gulistan,New Property,2700.0,27778.0,Gulistan,Sindh,Gulistan,Houses,450.0
+1324,46085146,Karachi,2.0,3.0,3.0,1.0,1.0,1.0,1.85, For Sale,Gulistan,Relatively New,1980.0,9343.0,Gulistan,Sindh,Gulistan,Upper,660.0
+1325,51877671,Karachi,3.0,5.0,5.0,1.0,2.0,1.0,4.05, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Under Construction,4500.0,9000.0,Bahria Paradise,Sindh,Bahria Town Karachi,Houses,900.0
+1326,50836828,Karachi,1.0,4.0,5.0,0.0,2.0,0.0,4.25, For Sale,"North Karachi, Karachi, Sindh, ",New Property,2160.0,19676.0,North Karachi,Sindh,North Karachi,Houses,540.0
+1332,51938189,Karachi,1.0,3.0,3.0,0.0,1.0,0.0,2.0, For Sale,Gulistan,Relatively New,1449.0,13803.0,Gulistan,Sindh,Gulistan,Flats,483.0
+1333,51925067,Karachi,1.0,3.0,3.0,2.0,1.0,1.0,2.25, For Sale,Gulistan,Old Property,1647.0,13661.0,Gulistan,Sindh,Gulistan,Flats,549.0
+1335,51988199,Karachi,3.0,3.0,3.0,1.0,2.0,1.0,0.75, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Moderately Old,1125.0,6667.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,375.0
+1337,25757819,Karachi,1.0,1.0,1.0,1.0,1.0,2.0,9.5, For Sale,"Navy Housing Scheme Karsaz, Karachi, Sindh, ",Relatively New,4203.0,22603.0,Navy Housing Scheme Karsaz,Sindh,Navy Housing Scheme Karsaz,Flats,4203.0
+1338,52014665,Karachi,2.0,3.0,4.0,1.0,1.0,1.0,1.42, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,2115.0,6714.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,705.0
+1339,52070403,Karachi,4.0,2.0,2.0,2.0,1.0,1.0,2.4, For Sale,"Defence View Society, Karachi, Sindh, ",Undefined,1755.0,13675.0,Defence View Society,Sindh,Defence View Society,Flats,877.5
+1340,46892219,Karachi,1.0,4.0,4.0,1.0,1.0,1.0,2.7, For Sale,Gulistan,Relatively New,2403.0,11236.0,Gulistan,Sindh,Gulistan,Flats,600.75
+1344,49821282,Karachi,1.0,3.0,3.0,0.0,1.0,0.0,2.25, For Sale,"Clifton, Karachi, Sindh, ",Relatively New,1647.0,13661.0,Clifton ,Sindh,Clifton,Flats,549.0
+1346,52098384,Karachi,3.0,6.0,7.0,0.0,2.0,2.0,4.0, For Sale,Gulistan,Relatively New,1080.0,37037.0,Gulistan,Sindh,Gulistan,Houses,180.0
+1349,52129800,Karachi,2.0,3.0,3.0,1.0,1.0,1.0,2.4, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,1800.0,13333.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,600.0
+1353,52130148,Karachi,3.0,6.0,8.0,1.0,2.0,1.0,0.58, For Sale,"North Karachi, Karachi, Sindh, ",Relatively New,1098.0,5282.0,North Karachi ,Sindh,North Karachi,Flats,183.0
+1354,51298140,Karachi,2.0,5.0,6.0,1.0,1.0,1.0,4.4, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,3375.0,13037.0,Askari 6,Sindh,Cantt,Flats,675.0
+1355,48087106,Karachi,1.0,2.0,2.0,1.0,1.0,1.0,5.4, For Sale,"DHA Defence, Karachi, Sindh, ",Undefined,1422.0,37975.0,HMR Waterfront,Sindh,DHA Defence,Flats,711.0
+1357,51940860,Karachi,1.0,0.0,0.0,0.0,0.0,0.0,3.2, For Sale,"Jamshed Town, Karachi, Sindh, ",Relatively New,1692.0,18913.0,Garden East,Sindh,Jamshed Town,Flats,inf
+1362,52127075,Karachi,1.0,2.0,2.0,0.0,1.0,0.0,1.35, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,2115.0,6383.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,1057.5
+1365,47415417,Karachi,2.0,3.0,3.0,1.0,1.0,1.0,6.0, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,3375.0,17778.0,Askari 6,Sindh,Cantt,Houses,1125.0
+1368,42475075,Karachi,2.0,4.0,5.0,1.0,1.0,1.0,12.75, For Sale,"DHA Defence, Karachi, Sindh, ",Relatively New,3204.0,39794.0,Emaar Panorama,Sindh,DHA Defence,Flats,801.0
+1369,52061224,Karachi,4.0,6.0,6.0,1.0,2.0,2.0,9.25, For Sale,"DHA Defence, Karachi, Sindh, ",Moderately Old,4500.0,20556.0,DHA Phase 5,Sindh,DHA Defence,Houses,750.0
+1372,51942728,Karachi,1.0,4.0,4.0,1.0,1.0,1.0,6.25, For Sale,"Jamshed Town, Karachi, Sindh, ",Moderately Old,2502.0,24980.0,PECHS Block 2,Sindh,Jamshed Town,Lower,625.5
+1374,51900172,Karachi,2.0,6.0,7.0,1.0,2.0,1.0,3.85, For Sale,"Scheme 33, Karachi, Sindh, ",Relatively New,2160.0,17824.0,Saadi Town,Sindh,Scheme 33,Houses,360.0
+1376,52020162,Karachi,2.0,3.0,3.0,1.0,2.0,1.0,1.35, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Under Construction,1368.0,9868.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,456.0
+1377,50921716,Karachi,4.0,4.0,4.0,2.0,2.0,0.0,2.1, For Sale,Gulistan,Relatively New,1080.0,19444.0,Gulistan,Sindh,Gulistan,Houses,270.0
+1378,51722863,Karachi,2.0,4.0,5.0,1.0,1.0,1.0,5.5, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,4500.0,12222.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,1125.0
+1383,52102121,Karachi,1.0,5.0,7.0,1.0,3.0,1.0,13.0, For Sale,"DHA Defence, Karachi, Sindh, ",Relatively New,4500.0,28889.0,DHA Phase 8,Sindh,DHA Defence,Houses,900.0
+1384,52079682,Karachi,2.0,6.0,7.0,2.0,2.0,2.0,14.75, For Sale,"DHA Defence, Karachi, Sindh, ",Relatively New,4500.0,32778.0,DHA Phase 6,Sindh,DHA Defence,Houses,750.0
+1386,52021813,Karachi,2.0,5.0,5.0,1.0,1.0,1.0,9.8, For Sale,"Malir, Karachi, Sindh, ",Relatively New,4500.0,21778.0,Falcon Complex New Malir,Sindh,Malir,Houses,900.0
+1391,49663553,Karachi,2.0,3.0,3.0,0.0,0.0,0.0,2.75, For Sale,Gulistan,Relatively New,1800.0,15278.0,Gulistan,Sindh,Gulistan,Flats,600.0
+1394,52030038,Karachi,3.0,6.0,5.0,0.0,1.0,1.0,7.4, For Sale,"Malir, Karachi, Sindh, ",Relatively New,3150.0,23492.0,Falcon Complex New Malir,Sindh,Malir,Houses,525.0
+1396,51983578,Karachi,1.0,2.0,2.0,1.0,1.0,1.0,5.4, For Sale,Gulistan,New Property,2160.0,25000.0,Gulistan,Sindh,Gulistan,Houses,1080.0
+1399,51164362,Karachi,4.0,5.0,5.0,1.0,1.0,1.0,6.35, For Sale,"Cantt, Karachi, Sindh, ",Relatively New,3375.0,18815.0,Askari 6,Sindh,Cantt,Houses,675.0
+1403,51378398,Karachi,2.0,5.0,5.0,1.0,1.0,1.0,10.8, For Sale,"Malir, Karachi, Sindh, ",Relatively New,4500.0,24000.0,Falcon Complex New Malir,Sindh,Malir,Houses,900.0
+1406,52115591,Karachi,1.0,3.0,4.0,1.0,2.0,1.0,5.5, For Sale,Gulistan,Relatively New,2745.0,20036.0,Askari 4,Sindh,Gulistan,Flats,915.0
+1409,52048568,Karachi,1.0,4.0,4.0,1.0,2.0,1.0,1.5, For Sale,"Gadap Town, Karachi, Sindh, ",Undefined,1080.0,13889.0,Gulshan,Sindh,Gadap Town,Houses,270.0
+1410,52053060,Karachi,1.0,6.0,7.0,0.0,2.0,0.0,3.0, For Sale,"Gadap Town, Karachi, Sindh, ",Undefined,1800.0,16667.0,Gulshan,Sindh,Gadap Town,Houses,300.0
+1413,52085610,Karachi,1.0,3.0,3.0,0.0,1.0,1.0,1.2, For Sale,"Bahria Town Karachi, Karachi, Sindh, ",Relatively New,1125.0,10667.0,Bahria Town ,Sindh,Bahria Town Karachi,Houses,375.0
+1414,52018256,Karachi,2.0,6.0,6.0,2.0,2.0,1.0,12.5, For Sale,"DHA Defence, Karachi, Sindh, ",Old Property,4500.0,27778.0,DHA Phase 6,Sindh,DHA Defence,Houses,750.0
+1415,52121225,Karachi,1.0,2.0,2.0,0.0,1.0,1.0,1.1, For Sale,"PIB Colony, Karachi, Sindh, ",Undefined,900.0,12222.0,PIB Colony,Sindh,PIB Colony,Flats,450.0
+1417,48799520,Karachi,2.0,4.0,4.0,1.0,2.0,1.0,1.12, For Sale,"Karachi Motorway, Karachi, Sindh, ",Relatively New,1080.0,10370.0,Saima Villas,Sindh,Karachi Motorway,Houses,270.0
+1421,51504861,Karachi,1.0,2.0,2.0,0.0,1.0,1.0,2.4, For Sale,"Nazimabad, Karachi, Sindh, ",Relatively New,2070.0,11594.0,Nazimabad 2 ,Sindh,Nazimabad,Upper,1035.0
+1424,52062153,Karachi,2.0,4.0,5.0,1.0,1.0,1.0,4.7, For Sale,"Cantt, Karachi, Sindh, ",New Property,2970.0,15825.0,Askari 5 ,Sindh,Cantt,Flats,742.5
+1425,52056544,Karachi,1.0,4.0,5.0,1.0,2.0,1.0,3.07, For Sale,"Scheme 33, Karachi, Sindh, ",Under Construction,1080.0,28426.0,Capital Cooperative Housing Society,Sindh,Scheme 33,Houses,270.0
+1426,51615233,Karachi,1.0,3.0,3.0,1.0,1.0,1.0,2.4, For Sale,Gulistan,Relatively New,1701.0,14109.0,Kings Presidency,Sindh,Gulistan,Flats,567.0
+1427,52129561,Karachi,1.0,3.0,3.0,1.0,1.0,1.0,2.15, For Sale,"North Nazimabad, Karachi, Sindh, ",New Property,1503.0,14305.0,North Nazimabad ,Sindh,North Nazimabad,Flats,501.0
+1428,52114880,Karachi,1.0,2.0,3.0,0.0,1.0,1.0,2.85, For Sale,"DHA Defence, Karachi, Sindh, ",Relatively New,1746.0,16323.0,DHA Phase 6,Sindh,DHA Defence,Flats,873.0
+1430,51894976,Karachi,1.0,4.0,6.0,1.0,2.0,1.0,1.85, For Sale,"Scheme 33, Karachi, Sindh, ",Relatively New,1080.0,17130.0,Saadi Town,Sindh,Scheme 33,Houses,270.0
+1431,51940967,Karachi,1.0,3.0,3.0,2.0,1.0,2.0,4.5, For Sale,Gulistan,Moderately Old,1440.0,31250.0,Gulistan,Sindh,Gulistan,Houses,480.0
+1432,51493706,Karachi,1.0,3.0,3.0,1.0,1.0,1.0,3.5, For Sale,"DHA Defence, Karachi, Sindh, ",Undefined,1701.0,20576.0,Ittehad Commercial Area,Sindh,DHA Defence,Flats,567.0
+1433,51089500,Karachi,1.0,2.0,2.0,0.0,1.0,1.0,0.58, For Sale,"North Karachi, Karachi, Sindh, ",Old Property,900.0,6444.0,North Karachi,Sindh,North Karachi,Flats,450.0
+1435,52078924,Karachi,2.0,3.0,3.0,0.0,1.0,0.0,1.3, For Sale,Gulistan,Relatively New,1503.0,8649.0,Kings Classic,Sindh,Gulistan,Flats,501.0
+1438,51104247,Karachi,1.0,3.0,4.0,1.0,1.0,1.0,5.75, For Sale," Island, Karachi, Sindh, ",New Property,2349.0,24479.0,Bath Island,Sindh, Island,Flats,783.0
+1441,52024226,Karachi,2.0,4.0,4.0,1.0,1.0,1.0,4.75, For Sale,"DHA Defence, Karachi, Sindh, ",Undefined,8100.0,5864.0,DHA Phase 7,Sindh,DHA Defence,Houses,2025.0
+1445,47251022,Karachi,1.0,5.0,5.0,0.0,1.0,1.0,5.4, For Sale,Gulshan,Relatively New,3699.0,14599.0,Bahadurabad,Sindh,Gulshan,Flats,739.8
+1446,51550188,Karachi,1.0,3.0,4.0,1.0,0.0,0.0,5.4, For Sale,Gulshan,Relatively New,1701.0,31746.0,Bahadurabad,Sindh,Gulshan,Flats,567.0
+1447,52064688,Karachi,1.0,6.0,6.0,1.0,2.0,1.0,8.9, For Sale,Gulistan,Under Construction,3600.0,24722.0,Gulistan,Sindh,Gulistan,Houses,600.0
+1450,48389410,Karachi,2.0,5.0,5.0,1.0,1.0,1.0,10.25, For Sale,"Malir, Karachi, Sindh, ",Relatively New,4500.0,22778.0,Falcon Complex New Malir,Sindh,Malir,Houses,900.0
+1454,51035789,Karachi,1.0,3.0,4.0,1.0,2.0,0.0,1.9, For Sale,"DHA Defence, Karachi, Sindh, ",Relatively New,1404.0,13533.0,DHA Phase 5,Sindh,DHA Defence,Flats,468.0
+1461,51527392,Karachi,1.0,4.0,5.0,1.0,2.0,1.0,3.15, For Sale,Gulistan,Relatively New,2196.0,14344.0,Kings Presidency,Sindh,Gulistan,Flats,549.0
+1472,52023302,Karachi,2.0,1.0,1.0,1.0,1.0,2.0,2.99, For Sale,"DHA Defence, Karachi, Sindh, ",Relatively New,7128.0,4195.0,HMR Waterfront,Sindh,DHA Defence,Flats,7128.0
+1475,52022345,Karachi,2.0,5.0,5.0,0.0,2.0,0.0,3.75, For Sale,Gulshan,Old Property,1080.0,34722.0,Gulshan,Sindh,Gulshan,Houses,216.0
+1477,52112426,Karachi,2.0,4.0,5.0,1.0,1.0,1.0,8.0, For Sale," Island, Karachi, Sindh, ",Relatively New,2448.0,32680.0,Bath Island,Sindh, Island,Flats,612.0
+1481,46172197,Karachi,1.0,3.0,4.0,0.0,2.0,1.0,2.6, For Sale,"Clifton, Karachi, Sindh, ",Relatively New,1998.0,13013.0,Clifton ,Sindh,Clifton,Flats,666.0
+1487,52041018,Karachi,2.0,2.0,3.0,0.0,1.0,1.0,1.38, For Sale,"Naya Nazimabad, Karachi, Sindh, ",Under Construction,1251.0,11031.0,Naya Nazimabad,Sindh,Naya Nazimabad,Flats,625.5
+1489,52098045,Karachi,3.0,5.0,6.0,2.0,1.0,2.0,11.0, For Sale,"DHA Defence, Karachi, Sindh, ",Relatively New,5400.0,20370.0,DHA Phase 6,Sindh,DHA Defence,Houses,1080.0
+1490,48622712,Karachi,1.0,3.0,3.0,1.0,1.0,1.0,0.36, For Sale,"Shah Faisal Town, Karachi, Sindh, ",Relatively New,540.0,6667.0,Shamsi Society,Sindh,Shah Faisal Town,Flats,180.0
+1493,52058765,Karachi,2.0,3.0,3.0,0.0,1.0,2.0,3.0, For Sale,Gulistan,Undefined,2556.0,11737.0,Gulistan,Sindh,Gulistan,Flats,852.0
+1494,51832215,Karachi,2.0,3.0,3.0,0.0,1.0,1.0,4.9, For Sale,"DHA Defence, Karachi, Sindh, ",New Property,1953.0,25090.0,Al Ahmad,Sindh,DHA Defence,Flats,651.0
+1495,51734965,Karachi,4.0,0.0,0.0,0.0,0.0,0.0,0.95, For Sale,"Scheme 33, Karachi, Sindh, ",New Property,1152.0,8247.0,Daniyal Residency,Sindh,Scheme 33,Flats,inf
+1500,52025370,Karachi,1.0,2.0,2.0,1.0,1.0,1.0,3.0, For Sale,Gulshan,Relatively New,1998.0,15015.0,Gulshan,Sindh,Gulshan,Flats,999.0
+1504,52046994,Karachi,4.0,5.0,6.0,2.0,3.0,1.0,1.38, For Sale,"Malir, Karachi, Sindh, ",Relatively New,1080.0,12778.0,Malir,Sindh,Malir,Houses,216.0
+1505,52133093,Karachi,4.0,6.0,7.0,2.0,3.0,1.0,4.5, For Sale,"Cotton Export Cooperative Housing Society, Karachi, Sindh, ",Relatively New,2160.0,20833.0,Cotton Export Cooperative Housing Society,Sindh,Cotton Export Cooperative Housing Society,Houses,360.0
+1506,52142911,Karachi,2.0,8.0,9.0,1.0,2.0,2.0,14.0, For Sale,Gulshan,Under Construction,3600.0,38889.0,Gulshan,Sindh,Gulshan,Houses,450.0
+1510,51525734,Karachi,1.0,3.0,3.0,1.0,1.0,2.0,2.29, For Sale,Gulistan,Relatively New,1701.0,13463.0,Kings Presidency,Sindh,Gulistan,Flats,567.0
+1511,48409814,Karachi,1.0,5.0,5.0,1.0,1.0,0.0,10.5, For Sale,"Malir, Karachi, Sindh, ",New Property,4500.0,23333.0,Falcon Complex New Malir,Sindh,Malir,Houses,900.0
+1516,51140390,Karachi,1.0,2.0,2.0,0.0,1.0,0.0,2.2, For Sale,"Jamshed Town, Karachi, Sindh, ",New Property,900.0,24444.0,PECHS Block 2,Sindh,Jamshed Town,Upper,450.0
+1517,50119841,Karachi,1.0,3.0,3.0,0.0,1.0,1.0,3.5, For Sale,"Jamshed Town, Karachi, Sindh, ",Relatively New,1800.0,19444.0,PECHS Block 2,Sindh,Jamshed Town,Lower,600.0
+1518,49977228,Karachi,1.0,4.0,4.0,1.0,1.0,1.0,4.25, For Sale,"Jamshed Town, Karachi, Sindh, ",New Property,2250.0,18889.0,PECHS Block 2,Sindh,Jamshed Town,Upper,562.5
